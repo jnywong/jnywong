@@ -1,5 +1,7 @@
 # Hellooo World!
 
+✨ She/her
+
 📖 Technical Content Developer [@2i2c-org](https://2i2c.org/)
 
 🐻 Ex-Research Software Engineer [@bear-rsg](https://github.com/bear-rsg) [@baskerville-hpc](https://github.com/baskerville-hpc) 
@@ -9,5 +11,3 @@
 💧 PhD graduate [@CDTFluidsLeeds](https://fluid-dynamics.leeds.ac.uk/) 
 
 ⌨️ Mech keeb enthusiast 
-
-✨ She/her
