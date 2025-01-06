@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5330](https://github.com/2i2c-org/infrastructure/pull/5330) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#5330](https://github.com/2i2c-org/infrastructure/pull/5330) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#5329](https://github.com/2i2c-org/infrastructure/issues/5329) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#5328](https://github.com/2i2c-org/infrastructure/issues/5328) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#5327](https://github.com/2i2c-org/infrastructure/issues/5327) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#22](https://github.com/jnywong/jnywong.github.io/pull/22) in [jnywong/jnywong.github.io](https://github.com/jnywong/jnywong.github.io)
+2. 💪 Opened PR [#22](https://github.com/jnywong/jnywong.github.io/pull/22) in [jnywong/jnywong.github.io](https://github.com/jnywong/jnywong.github.io)
+3. 🎉 Merged PR [#5330](https://github.com/2i2c-org/infrastructure/pull/5330) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#5330](https://github.com/2i2c-org/infrastructure/pull/5330) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#5329](https://github.com/2i2c-org/infrastructure/issues/5329) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
