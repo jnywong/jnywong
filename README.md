@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/ScienceCore/climaterisk/pull/147) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
-2. 🔒 Closed issue [#5329](https://github.com/2i2c-org/infrastructure/issues/5329) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#5345](https://github.com/2i2c-org/infrastructure/pull/5345) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#5345](https://github.com/2i2c-org/infrastructure/pull/5345) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#5340](https://github.com/2i2c-org/infrastructure/issues/5340) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#5362](https://github.com/2i2c-org/infrastructure/pull/5362) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#147](https://github.com/ScienceCore/climaterisk/pull/147) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
+3. 🔒 Closed issue [#5329](https://github.com/2i2c-org/infrastructure/issues/5329) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#5345](https://github.com/2i2c-org/infrastructure/pull/5345) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#5345](https://github.com/2i2c-org/infrastructure/pull/5345) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
