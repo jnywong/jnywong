@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#521](https://github.com/jupyter-book/myst-theme/pull/521) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
-2. 💪 Opened PR [#1773](https://github.com/jupyter-book/mystmd/pull/1773) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-3. 🔒 Closed issue [#5333](https://github.com/2i2c-org/infrastructure/issues/5333) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#5362](https://github.com/2i2c-org/infrastructure/pull/5362) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#5362](https://github.com/2i2c-org/infrastructure/pull/5362#issuecomment-2582770915) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#136](https://github.com/ScienceCore/climaterisk/issues/136#issuecomment-2586918640) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
+2. 💪 Opened PR [#148](https://github.com/ScienceCore/climaterisk/pull/148) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
+3. 💪 Opened PR [#521](https://github.com/jupyter-book/myst-theme/pull/521) in [jupyter-book/myst-theme](https://github.com/jupyter-book/myst-theme)
+4. 💪 Opened PR [#1773](https://github.com/jupyter-book/mystmd/pull/1773) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+5. 🔒 Closed issue [#5333](https://github.com/2i2c-org/infrastructure/issues/5333) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
