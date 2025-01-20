@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5393](https://github.com/2i2c-org/infrastructure/issues/5393) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#5332](https://github.com/2i2c-org/infrastructure/issues/5332#issuecomment-2597937106) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#346](https://github.com/2i2c-org/2i2c-org.github.io/pull/346#issuecomment-2589489665) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-4. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2587487899) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-5. 🗣 Commented on [#136](https://github.com/ScienceCore/climaterisk/issues/136#issuecomment-2586918640) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
+1. 🗣 Commented on [#143](https://github.com/ScienceCore/climaterisk/issues/143#issuecomment-2602108571) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
+2. 💪 Opened PR [#150](https://github.com/ScienceCore/climaterisk/pull/150) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
+3. 🎉 Merged PR [#149](https://github.com/ScienceCore/climaterisk/pull/149) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
+4. 🗣 Commented on [#143](https://github.com/ScienceCore/climaterisk/issues/143#issuecomment-2602092947) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
+5. ❗ Opened issue [#5393](https://github.com/2i2c-org/infrastructure/issues/5393) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
