@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5398](https://github.com/2i2c-org/infrastructure/issues/5398) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#5397](https://github.com/2i2c-org/infrastructure/issues/5397) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#224](https://github.com/2i2c-org/frx-challenges/issues/224) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-4. 🗣 Commented on [#99](https://github.com/ScienceCore/climaterisk/issues/99#issuecomment-2604565957) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
-5. 🔒 Closed issue [#99](https://github.com/ScienceCore/climaterisk/issues/99) in [ScienceCore/climaterisk](https://github.com/ScienceCore/climaterisk)
+1. 🗣 Commented on [#5332](https://github.com/2i2c-org/infrastructure/issues/5332#issuecomment-2606919445) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#5332](https://github.com/2i2c-org/infrastructure/issues/5332) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#5398](https://github.com/2i2c-org/infrastructure/issues/5398) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#5397](https://github.com/2i2c-org/infrastructure/issues/5397) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#224](https://github.com/2i2c-org/frx-challenges/issues/224) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
 <!--END_SECTION:activity-->
