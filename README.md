@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/70) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
-2. ❗ Opened issue [#5401](https://github.com/2i2c-org/infrastructure/issues/5401) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#5343](https://github.com/2i2c-org/infrastructure/issues/5343#issuecomment-2607022694) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#5343](https://github.com/2i2c-org/infrastructure/issues/5343) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#251](https://github.com/2i2c-org/docs/issues/251) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+1. ❗ Opened issue [#226](https://github.com/2i2c-org/frx-challenges/issues/226) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+2. 💪 Opened PR [#70](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/70) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
+3. ❗ Opened issue [#5401](https://github.com/2i2c-org/infrastructure/issues/5401) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#5343](https://github.com/2i2c-org/infrastructure/issues/5343#issuecomment-2607022694) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#5343](https://github.com/2i2c-org/infrastructure/issues/5343) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
