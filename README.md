@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5223](https://github.com/2i2c-org/infrastructure/issues/5223) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#84](https://github.com/janelia-cellmap/cellmap-segmentation-challenge/issues/84) in [janelia-cellmap/cellmap-segmentation-challenge](https://github.com/janelia-cellmap/cellmap-segmentation-challenge)
-3. ❗ Opened issue [#83](https://github.com/janelia-cellmap/cellmap-segmentation-challenge/issues/83) in [janelia-cellmap/cellmap-segmentation-challenge](https://github.com/janelia-cellmap/cellmap-segmentation-challenge)
-4. ❗ Opened issue [#226](https://github.com/2i2c-org/frx-challenges/issues/226) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-5. 💪 Opened PR [#70](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/70) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
+1. 🗣 Commented on [#5401](https://github.com/2i2c-org/infrastructure/issues/5401#issuecomment-2610299233) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#5223](https://github.com/2i2c-org/infrastructure/issues/5223) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#84](https://github.com/janelia-cellmap/cellmap-segmentation-challenge/issues/84) in [janelia-cellmap/cellmap-segmentation-challenge](https://github.com/janelia-cellmap/cellmap-segmentation-challenge)
+4. ❗ Opened issue [#83](https://github.com/janelia-cellmap/cellmap-segmentation-challenge/issues/83) in [janelia-cellmap/cellmap-segmentation-challenge](https://github.com/janelia-cellmap/cellmap-segmentation-challenge)
+5. ❗ Opened issue [#226](https://github.com/2i2c-org/frx-challenges/issues/226) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
 <!--END_SECTION:activity-->
