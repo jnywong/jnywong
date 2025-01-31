@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/73) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
-2. 💪 Opened PR [#73](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/73) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
-3. 🎉 Merged PR [#72](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/72) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
-4. 🎉 Merged PR [#254](https://github.com/2i2c-org/docs/pull/254) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-5. ❗ Opened issue [#5461](https://github.com/2i2c-org/infrastructure/issues/5461) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#1](https://github.com/jnywong/VICTOR-notebook/pull/1) in [jnywong/VICTOR-notebook](https://github.com/jnywong/VICTOR-notebook)
+2. 🎉 Merged PR [#73](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/73) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
+3. 💪 Opened PR [#73](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/73) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
+4. 🎉 Merged PR [#72](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/72) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
+5. 🎉 Merged PR [#254](https://github.com/2i2c-org/docs/pull/254) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
 <!--END_SECTION:activity-->
