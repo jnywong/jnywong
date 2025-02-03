@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#232](https://github.com/2i2c-org/frx-challenges/pull/232) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-2. 🗣 Commented on [#226](https://github.com/2i2c-org/frx-challenges/issues/226#issuecomment-2631216482) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-3. 🔒 Closed issue [#226](https://github.com/2i2c-org/frx-challenges/issues/226) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-4. 🔒 Closed issue [#84](https://github.com/janelia-cellmap/cellmap-segmentation-challenge/issues/84) in [janelia-cellmap/cellmap-segmentation-challenge](https://github.com/janelia-cellmap/cellmap-segmentation-challenge)
-5. 🔒 Closed issue [#3758](https://github.com/2i2c-org/infrastructure/issues/3758) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#233](https://github.com/2i2c-org/frx-challenges/issues/233) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+2. 💪 Opened PR [#232](https://github.com/2i2c-org/frx-challenges/pull/232) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+3. 🗣 Commented on [#226](https://github.com/2i2c-org/frx-challenges/issues/226#issuecomment-2631216482) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+4. 🔒 Closed issue [#226](https://github.com/2i2c-org/frx-challenges/issues/226) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+5. 🔒 Closed issue [#84](https://github.com/janelia-cellmap/cellmap-segmentation-challenge/issues/84) in [janelia-cellmap/cellmap-segmentation-challenge](https://github.com/janelia-cellmap/cellmap-segmentation-challenge)
 <!--END_SECTION:activity-->
