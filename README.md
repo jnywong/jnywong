@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5467](https://github.com/2i2c-org/infrastructure/pull/5467) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#5467](https://github.com/2i2c-org/infrastructure/pull/5467) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#5466](https://github.com/2i2c-org/infrastructure/issues/5466) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#1](https://github.com/jnywong/VICTOR-notebook/pull/1) in [jnywong/VICTOR-notebook](https://github.com/jnywong/VICTOR-notebook)
-5. 🎉 Merged PR [#73](https://github.com/2i2c-org/segmentation-challenge-deploy/pull/73) in [2i2c-org/segmentation-challenge-deploy](https://github.com/2i2c-org/segmentation-challenge-deploy)
+1. 🔒 Closed issue [#3758](https://github.com/2i2c-org/infrastructure/issues/3758) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#5480](https://github.com/2i2c-org/infrastructure/pull/5480) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#5467](https://github.com/2i2c-org/infrastructure/pull/5467) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#5467](https://github.com/2i2c-org/infrastructure/pull/5467) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#5466](https://github.com/2i2c-org/infrastructure/issues/5466) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
