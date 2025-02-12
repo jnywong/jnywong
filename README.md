@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2653934339) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. 💪 Opened PR [#373](https://github.com/2i2c-org/2i2c-org.github.io/pull/373) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-3. 💪 Opened PR [#372](https://github.com/2i2c-org/2i2c-org.github.io/pull/372) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-4. 🗣 Commented on [#5461](https://github.com/2i2c-org/infrastructure/issues/5461#issuecomment-2651002587) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#5461](https://github.com/2i2c-org/infrastructure/issues/5461) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#343](https://github.com/2i2c-org/2i2c-org.github.io/issues/343) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 🔒 Closed issue [#341](https://github.com/2i2c-org/2i2c-org.github.io/issues/341) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+3. 🔒 Closed issue [#340](https://github.com/2i2c-org/2i2c-org.github.io/issues/340) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+4. 🔒 Closed issue [#339](https://github.com/2i2c-org/2i2c-org.github.io/issues/339) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+5. 🔒 Closed issue [#337](https://github.com/2i2c-org/2i2c-org.github.io/issues/337) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
 <!--END_SECTION:activity-->
