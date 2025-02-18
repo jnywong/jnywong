@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/2i2c-org/2i2c-org.github.io/pull/346#issuecomment-2665261164) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-2. 🔒 Closed issue [#5492](https://github.com/2i2c-org/infrastructure/issues/5492) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#5548](https://github.com/2i2c-org/infrastructure/issues/5548) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#5492](https://github.com/2i2c-org/infrastructure/issues/5492#issuecomment-2665111021) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#21](https://github.com/2i2c-org/utoronto-r-image/pull/21) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
+1. 🗣 Commented on [#234](https://github.com/2i2c-org/frx-challenges/issues/234#issuecomment-2665280042) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+2. 🔒 Closed issue [#234](https://github.com/2i2c-org/frx-challenges/issues/234) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+3. 🗣 Commented on [#346](https://github.com/2i2c-org/2i2c-org.github.io/pull/346#issuecomment-2665261164) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+4. 🔒 Closed issue [#5492](https://github.com/2i2c-org/infrastructure/issues/5492) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#5548](https://github.com/2i2c-org/infrastructure/issues/5548) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
