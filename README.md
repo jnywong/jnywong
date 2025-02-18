@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5328](https://github.com/2i2c-org/infrastructure/issues/5328#issuecomment-2663587273) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#5328](https://github.com/2i2c-org/infrastructure/issues/5328) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#374](https://github.com/2i2c-org/2i2c-org.github.io/pull/374) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-4. 🗣 Commented on [#5492](https://github.com/2i2c-org/infrastructure/issues/5492#issuecomment-2662744356) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#374](https://github.com/2i2c-org/2i2c-org.github.io/pull/374) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+1. 💪 Opened PR [#21](https://github.com/2i2c-org/utoronto-r-image/pull/21) in [2i2c-org/utoronto-r-image](https://github.com/2i2c-org/utoronto-r-image)
+2. 🗣 Commented on [#5328](https://github.com/2i2c-org/infrastructure/issues/5328#issuecomment-2663587273) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#5328](https://github.com/2i2c-org/infrastructure/issues/5328) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#374](https://github.com/2i2c-org/2i2c-org.github.io/pull/374) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+5. 🗣 Commented on [#5492](https://github.com/2i2c-org/infrastructure/issues/5492#issuecomment-2662744356) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
