@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/2i2c-org/utoronto-image/issues/59#issuecomment-2666276684) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-2. 🔒 Closed issue [#59](https://github.com/2i2c-org/utoronto-image/issues/59) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-3. 💪 Opened PR [#63](https://github.com/2i2c-org/utoronto-image/pull/63) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-4. 🎉 Merged PR [#5551](https://github.com/2i2c-org/infrastructure/pull/5551) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#5545](https://github.com/2i2c-org/infrastructure/issues/5545) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2668448066) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. ❗ Opened issue [#22](https://github.com/jupyter-book/mystmd.org/issues/22) in [jupyter-book/mystmd.org](https://github.com/jupyter-book/mystmd.org)
+3. 🗣 Commented on [#59](https://github.com/2i2c-org/utoronto-image/issues/59#issuecomment-2666276684) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+4. 🔒 Closed issue [#59](https://github.com/2i2c-org/utoronto-image/issues/59) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+5. 💪 Opened PR [#63](https://github.com/2i2c-org/utoronto-image/pull/63) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
 <!--END_SECTION:activity-->
