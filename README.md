@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/2i2c-org/utoronto-image/pull/63) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
-2. 🎉 Merged PR [#5551](https://github.com/2i2c-org/infrastructure/pull/5551) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#5545](https://github.com/2i2c-org/infrastructure/issues/5545) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#5550](https://github.com/2i2c-org/infrastructure/pull/5550) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#5551](https://github.com/2i2c-org/infrastructure/pull/5551) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#59](https://github.com/2i2c-org/utoronto-image/issues/59#issuecomment-2666276684) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+2. 🔒 Closed issue [#59](https://github.com/2i2c-org/utoronto-image/issues/59) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+3. 💪 Opened PR [#63](https://github.com/2i2c-org/utoronto-image/pull/63) in [2i2c-org/utoronto-image](https://github.com/2i2c-org/utoronto-image)
+4. 🎉 Merged PR [#5551](https://github.com/2i2c-org/infrastructure/pull/5551) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#5545](https://github.com/2i2c-org/infrastructure/issues/5545) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
