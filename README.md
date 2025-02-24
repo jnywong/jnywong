@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5562](https://github.com/2i2c-org/infrastructure/issues/5562) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#5552](https://github.com/2i2c-org/infrastructure/issues/5552#issuecomment-2671062642) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#5562](https://github.com/2i2c-org/infrastructure/issues/5562) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#5561](https://github.com/2i2c-org/infrastructure/issues/5561) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#1773](https://github.com/jupyter-book/mystmd/pull/1773#issuecomment-2668448066) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+1. 🎉 Merged PR [#5](https://github.com/strudel-science/strudel-infra/pull/5) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+2. 💪 Opened PR [#5](https://github.com/strudel-science/strudel-infra/pull/5) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+3. 🎉 Merged PR [#4](https://github.com/strudel-science/strudel-infra/pull/4) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+4. 💪 Opened PR [#4](https://github.com/strudel-science/strudel-infra/pull/4) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+5. 🎉 Merged PR [#3](https://github.com/strudel-science/strudel-infra/pull/3) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
 <!--END_SECTION:activity-->
