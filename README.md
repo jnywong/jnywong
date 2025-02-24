@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/strudel-science/strudel-infra/pull/5) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-2. 💪 Opened PR [#5](https://github.com/strudel-science/strudel-infra/pull/5) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-3. 🎉 Merged PR [#4](https://github.com/strudel-science/strudel-infra/pull/4) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-4. 💪 Opened PR [#4](https://github.com/strudel-science/strudel-infra/pull/4) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-5. 🎉 Merged PR [#3](https://github.com/strudel-science/strudel-infra/pull/3) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+1. 🎉 Merged PR [#7](https://github.com/strudel-science/strudel-infra/pull/7) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+2. 💪 Opened PR [#7](https://github.com/strudel-science/strudel-infra/pull/7) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+3. ❌ Closed PR [#6](https://github.com/strudel-science/strudel-infra/pull/6) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+4. 💪 Opened PR [#6](https://github.com/strudel-science/strudel-infra/pull/6) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+5. 🎉 Merged PR [#5](https://github.com/strudel-science/strudel-infra/pull/5) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
 <!--END_SECTION:activity-->
