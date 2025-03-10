@@ -2,7 +2,7 @@
 
 ✨ She/her
 
-👩‍💻 Product Manager [@2i2c-org](https://2i2c.org/)
+👩‍💻 Open Source Applications Engineer [@2i2c-org](https://2i2c.org/)
 
 🐻 Ex-Research Software Engineer [@bear-rsg](https://github.com/bear-rsg) [@baskerville-hpc](https://github.com/baskerville-hpc) 
 
