@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/strudel-science/strudel-infra/pull/10) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-2. 💪 Opened PR [#10](https://github.com/strudel-science/strudel-infra/pull/10) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-3. 🎉 Merged PR [#5728](https://github.com/2i2c-org/infrastructure/pull/5728) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#5728](https://github.com/2i2c-org/infrastructure/pull/5728) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#5672](https://github.com/2i2c-org/infrastructure/issues/5672#issuecomment-2725265338) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#5730](https://github.com/2i2c-org/infrastructure/pull/5730) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#5730](https://github.com/2i2c-org/infrastructure/pull/5730) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#11](https://github.com/strudel-science/strudel-infra/pull/11) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+4. 💪 Opened PR [#11](https://github.com/strudel-science/strudel-infra/pull/11) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+5. 🎉 Merged PR [#10](https://github.com/strudel-science/strudel-infra/pull/10) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
 <!--END_SECTION:activity-->
