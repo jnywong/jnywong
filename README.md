@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#392](https://github.com/2i2c-org/2i2c-org.github.io/issues/392) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-2. 🎉 Merged PR [#5731](https://github.com/2i2c-org/infrastructure/pull/5731) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#5731](https://github.com/2i2c-org/infrastructure/pull/5731) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#13](https://github.com/strudel-science/strudel-infra/pull/13) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-5. 💪 Opened PR [#13](https://github.com/strudel-science/strudel-infra/pull/13) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
+1. 🔒 Closed issue [#383](https://github.com/2i2c-org/2i2c-org.github.io/issues/383) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 🔒 Closed issue [#380](https://github.com/2i2c-org/2i2c-org.github.io/issues/380) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+3. 🔒 Closed issue [#375](https://github.com/2i2c-org/2i2c-org.github.io/issues/375) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+4. ❗ Opened issue [#392](https://github.com/2i2c-org/2i2c-org.github.io/issues/392) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+5. 🎉 Merged PR [#5731](https://github.com/2i2c-org/infrastructure/pull/5731) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
