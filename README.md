@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5749](https://github.com/2i2c-org/infrastructure/issues/5749#issuecomment-2765885629) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#5019](https://github.com/jupyterhub/jupyterhub/issues/5019#issuecomment-2759110457) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-3. 🎉 Merged PR [#14](https://github.com/strudel-science/strudel-infra/pull/14) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-4. 💪 Opened PR [#14](https://github.com/strudel-science/strudel-infra/pull/14) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
-5. ❗ Opened issue [#5806](https://github.com/2i2c-org/infrastructure/issues/5806) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#5825](https://github.com/2i2c-org/infrastructure/issues/5825) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#5824](https://github.com/2i2c-org/infrastructure/issues/5824) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#5749](https://github.com/2i2c-org/infrastructure/issues/5749#issuecomment-2765885629) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#5019](https://github.com/jupyterhub/jupyterhub/issues/5019#issuecomment-2759110457) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+5. 🎉 Merged PR [#14](https://github.com/strudel-science/strudel-infra/pull/14) in [strudel-science/strudel-infra](https://github.com/strudel-science/strudel-infra)
 <!--END_SECTION:activity-->
