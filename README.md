@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5828](https://github.com/2i2c-org/infrastructure/pull/5828) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#5828](https://github.com/2i2c-org/infrastructure/pull/5828) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#5827](https://github.com/2i2c-org/infrastructure/pull/5827) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#5827](https://github.com/2i2c-org/infrastructure/pull/5827) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#5826](https://github.com/2i2c-org/infrastructure/pull/5826) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#111](https://github.com/czi-catalystproject/czi-catalystproject.github.io/pull/111) in [czi-catalystproject/czi-catalystproject.github.io](https://github.com/czi-catalystproject/czi-catalystproject.github.io)
+2. 💪 Opened PR [#111](https://github.com/czi-catalystproject/czi-catalystproject.github.io/pull/111) in [czi-catalystproject/czi-catalystproject.github.io](https://github.com/czi-catalystproject/czi-catalystproject.github.io)
+3. 🎉 Merged PR [#5828](https://github.com/2i2c-org/infrastructure/pull/5828) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#5828](https://github.com/2i2c-org/infrastructure/pull/5828) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#5827](https://github.com/2i2c-org/infrastructure/pull/5827) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
