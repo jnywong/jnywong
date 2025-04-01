@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5552](https://github.com/2i2c-org/infrastructure/issues/5552#issuecomment-2768734287) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#111](https://github.com/czi-catalystproject/czi-catalystproject.github.io/pull/111) in [czi-catalystproject/czi-catalystproject.github.io](https://github.com/czi-catalystproject/czi-catalystproject.github.io)
-3. 💪 Opened PR [#111](https://github.com/czi-catalystproject/czi-catalystproject.github.io/pull/111) in [czi-catalystproject/czi-catalystproject.github.io](https://github.com/czi-catalystproject/czi-catalystproject.github.io)
-4. 🎉 Merged PR [#5828](https://github.com/2i2c-org/infrastructure/pull/5828) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#5828](https://github.com/2i2c-org/infrastructure/pull/5828) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#5019](https://github.com/jupyterhub/jupyterhub/issues/5019#issuecomment-2768945083) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+2. 💪 Opened PR [#5038](https://github.com/jupyterhub/jupyterhub/pull/5038) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+3. 💪 Opened PR [#7](https://github.com/jupyter/schema/pull/7) in [jupyter/schema](https://github.com/jupyter/schema)
+4. 🗣 Commented on [#5552](https://github.com/2i2c-org/infrastructure/issues/5552#issuecomment-2768734287) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#111](https://github.com/czi-catalystproject/czi-catalystproject.github.io/pull/111) in [czi-catalystproject/czi-catalystproject.github.io](https://github.com/czi-catalystproject/czi-catalystproject.github.io)
 <!--END_SECTION:activity-->
