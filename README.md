@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jnywong/jupyterhub-user-groups/pull/1) in [jnywong/jupyterhub-user-groups](https://github.com/jnywong/jupyterhub-user-groups)
-2. 🗣 Commented on [#5806](https://github.com/2i2c-org/infrastructure/issues/5806#issuecomment-2775381060) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#110](https://github.com/jupyterhub/grafana-dashboards/issues/110#issuecomment-2775364791) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-4. 🔒 Closed issue [#5751](https://github.com/2i2c-org/infrastructure/issues/5751) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#146](https://github.com/jupyterhub/grafana-dashboards/pull/146) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+1. ❗ Opened issue [#5892](https://github.com/2i2c-org/infrastructure/issues/5892) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#1](https://github.com/jnywong/jupyterhub-user-groups/pull/1) in [jnywong/jupyterhub-user-groups](https://github.com/jnywong/jupyterhub-user-groups)
+3. 🗣 Commented on [#5806](https://github.com/2i2c-org/infrastructure/issues/5806#issuecomment-2775381060) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#110](https://github.com/jupyterhub/grafana-dashboards/issues/110#issuecomment-2775364791) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+5. 🔒 Closed issue [#5751](https://github.com/2i2c-org/infrastructure/issues/5751) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
