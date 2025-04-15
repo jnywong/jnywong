@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1030](https://github.com/jupyterhub/the-littlest-jupyterhub/pull/1030) in [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub)
-2. 🗣 Commented on [#5824](https://github.com/2i2c-org/infrastructure/issues/5824#issuecomment-2804553592) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#5552](https://github.com/2i2c-org/infrastructure/issues/5552#issuecomment-2804550216) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#5892](https://github.com/2i2c-org/infrastructure/issues/5892) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#1](https://github.com/jnywong/jupyterhub-user-groups/pull/1) in [jnywong/jupyterhub-user-groups](https://github.com/jnywong/jupyterhub-user-groups)
+1. 🗣 Commented on [#5058](https://github.com/2i2c-org/infrastructure/issues/5058#issuecomment-2806158030) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#5854](https://github.com/2i2c-org/infrastructure/issues/5854#issuecomment-2806112489) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#5854](https://github.com/2i2c-org/infrastructure/issues/5854#issuecomment-2806024760) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#1023](https://github.com/jupyterhub/the-littlest-jupyterhub/issues/1023#issuecomment-2805958042) in [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub)
+5. 💪 Opened PR [#1030](https://github.com/jupyterhub/the-littlest-jupyterhub/pull/1030) in [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub)
 <!--END_SECTION:activity-->
