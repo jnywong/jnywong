@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jnywong/jupyterhub-groups-exporter/pull/4) in [jnywong/jupyterhub-groups-exporter](https://github.com/jnywong/jupyterhub-groups-exporter)
-2. 💪 Opened PR [#4](https://github.com/jnywong/jupyterhub-groups-exporter/pull/4) in [jnywong/jupyterhub-groups-exporter](https://github.com/jnywong/jupyterhub-groups-exporter)
-3. 🎉 Merged PR [#3](https://github.com/jnywong/jupyterhub-groups-exporter/pull/3) in [jnywong/jupyterhub-groups-exporter](https://github.com/jnywong/jupyterhub-groups-exporter)
-4. 🗣 Commented on [#3](https://github.com/jnywong/jupyterhub-groups-exporter/pull/3#issuecomment-2824415486) in [jnywong/jupyterhub-groups-exporter](https://github.com/jnywong/jupyterhub-groups-exporter)
-5. 🎉 Merged PR [#3](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/3) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+1. 🎉 Merged PR [#4](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/4) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+2. 💪 Opened PR [#4](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/4) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+3. 🎉 Merged PR [#4](https://github.com/jnywong/jupyterhub-groups-exporter/pull/4) in [jnywong/jupyterhub-groups-exporter](https://github.com/jnywong/jupyterhub-groups-exporter)
+4. 💪 Opened PR [#4](https://github.com/jnywong/jupyterhub-groups-exporter/pull/4) in [jnywong/jupyterhub-groups-exporter](https://github.com/jnywong/jupyterhub-groups-exporter)
+5. 🎉 Merged PR [#3](https://github.com/jnywong/jupyterhub-groups-exporter/pull/3) in [jnywong/jupyterhub-groups-exporter](https://github.com/jnywong/jupyterhub-groups-exporter)
 <!--END_SECTION:activity-->
