@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6055](https://github.com/2i2c-org/infrastructure/pull/6055) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#6055](https://github.com/2i2c-org/infrastructure/pull/6055) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#13](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/13) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-4. 💪 Opened PR [#13](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/13) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-5. 🗣 Commented on [#5996](https://github.com/2i2c-org/infrastructure/issues/5996#issuecomment-2883063962) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#6065](https://github.com/2i2c-org/infrastructure/pull/6065#issuecomment-2886412999) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#6065](https://github.com/2i2c-org/infrastructure/pull/6065) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#6055](https://github.com/2i2c-org/infrastructure/pull/6055) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#6055](https://github.com/2i2c-org/infrastructure/pull/6055) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#13](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/13) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
 <!--END_SECTION:activity-->
