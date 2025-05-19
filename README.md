@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6048](https://github.com/2i2c-org/infrastructure/issues/6048#issuecomment-2890395655) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#6065](https://github.com/2i2c-org/infrastructure/pull/6065#issuecomment-2890102210) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#6068](https://github.com/2i2c-org/infrastructure/pull/6068) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#6068](https://github.com/2i2c-org/infrastructure/pull/6068) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#14](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/14) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+1. 🗣 Commented on [#6065](https://github.com/2i2c-org/infrastructure/pull/6065#issuecomment-2890584145) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#146](https://github.com/jupyterhub/grafana-dashboards/pull/146#issuecomment-2890576353) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+3. ❌ Closed PR [#146](https://github.com/jupyterhub/grafana-dashboards/pull/146) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+4. 💪 Opened PR [#149](https://github.com/jupyterhub/grafana-dashboards/pull/149) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+5. 🎉 Merged PR [#1](https://github.com/2i2c-org/grafana-dashboards/pull/1) in [2i2c-org/grafana-dashboards](https://github.com/2i2c-org/grafana-dashboards)
 <!--END_SECTION:activity-->
