@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/2i2c-org/frx-challenges-deploy/pull/84) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
-2. 🗣 Commented on [#239](https://github.com/2i2c-org/frx-challenges/pull/239#issuecomment-2977271206) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-3. 🎉 Merged PR [#243](https://github.com/2i2c-org/frx-challenges/pull/243) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-4. 💪 Opened PR [#243](https://github.com/2i2c-org/frx-challenges/pull/243) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-5. ❌ Closed PR [#241](https://github.com/2i2c-org/frx-challenges/pull/241) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+1. 🗣 Commented on [#6030](https://github.com/2i2c-org/infrastructure/issues/6030#issuecomment-2979681943) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#84](https://github.com/2i2c-org/frx-challenges-deploy/pull/84) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
+3. 🗣 Commented on [#239](https://github.com/2i2c-org/frx-challenges/pull/239#issuecomment-2977271206) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+4. 🎉 Merged PR [#243](https://github.com/2i2c-org/frx-challenges/pull/243) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+5. 💪 Opened PR [#243](https://github.com/2i2c-org/frx-challenges/pull/243) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
 <!--END_SECTION:activity-->
