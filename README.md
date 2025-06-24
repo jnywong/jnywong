@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/2i2c-org/hub-user-image-template/pull/36#issuecomment-2996851135) in [2i2c-org/hub-user-image-template](https://github.com/2i2c-org/hub-user-image-template)
-2. ❌ Closed PR [#36](https://github.com/2i2c-org/hub-user-image-template/pull/36) in [2i2c-org/hub-user-image-template](https://github.com/2i2c-org/hub-user-image-template)
-3. ❗ Opened issue [#15](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/15) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-4. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-2995922163) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#6263](https://github.com/2i2c-org/infrastructure/pull/6263) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-2997109210) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#36](https://github.com/2i2c-org/hub-user-image-template/pull/36#issuecomment-2996851135) in [2i2c-org/hub-user-image-template](https://github.com/2i2c-org/hub-user-image-template)
+3. ❌ Closed PR [#36](https://github.com/2i2c-org/hub-user-image-template/pull/36) in [2i2c-org/hub-user-image-template](https://github.com/2i2c-org/hub-user-image-template)
+4. ❗ Opened issue [#15](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/15) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+5. 🗣 Commented on [#6151](https://github.com/2i2c-org/infrastructure/issues/6151#issuecomment-2995922163) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
