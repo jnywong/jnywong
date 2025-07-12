@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6349](https://github.com/2i2c-org/infrastructure/pull/6349) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#6349](https://github.com/2i2c-org/infrastructure/pull/6349) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#6348](https://github.com/2i2c-org/infrastructure/issues/6348) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❌ Closed PR [#87](https://github.com/2i2c-org/frx-challenges-deploy/pull/87) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
-5. 🎉 Merged PR [#86](https://github.com/2i2c-org/frx-challenges-deploy/pull/86) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
+1. 🎉 Merged PR [#6350](https://github.com/2i2c-org/infrastructure/pull/6350) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#6350](https://github.com/2i2c-org/infrastructure/pull/6350) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#6349](https://github.com/2i2c-org/infrastructure/pull/6349) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#6349](https://github.com/2i2c-org/infrastructure/pull/6349) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#6348](https://github.com/2i2c-org/infrastructure/issues/6348) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
