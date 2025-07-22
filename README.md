@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/16#issuecomment-3096206508) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-2. ❗ Opened issue [#16](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/16) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-3. 🎉 Merged PR [#6398](https://github.com/2i2c-org/infrastructure/pull/6398) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#6398](https://github.com/2i2c-org/infrastructure/pull/6398) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#6396](https://github.com/2i2c-org/infrastructure/issues/6396) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#18](https://github.com/yuvipanda/prometheus-dirsize-exporter/issues/18#issuecomment-3102295273) in [yuvipanda/prometheus-dirsize-exporter](https://github.com/yuvipanda/prometheus-dirsize-exporter)
+2. 🗣 Commented on [#16](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/16#issuecomment-3096206508) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+3. ❗ Opened issue [#16](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/16) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+4. 🎉 Merged PR [#6398](https://github.com/2i2c-org/infrastructure/pull/6398) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#6398](https://github.com/2i2c-org/infrastructure/pull/6398) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
