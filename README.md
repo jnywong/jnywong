@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6577](https://github.com/2i2c-org/infrastructure/pull/6577) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#6577](https://github.com/2i2c-org/infrastructure/pull/6577) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#6392](https://github.com/2i2c-org/infrastructure/issues/6392#issuecomment-3196204558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#11](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/11) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-5. 🔒 Closed issue [#6565](https://github.com/2i2c-org/infrastructure/issues/6565) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#5552](https://github.com/2i2c-org/infrastructure/issues/5552#issuecomment-3200952117) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#6577](https://github.com/2i2c-org/infrastructure/pull/6577) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#6577](https://github.com/2i2c-org/infrastructure/pull/6577) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#6392](https://github.com/2i2c-org/infrastructure/issues/6392#issuecomment-3196204558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#11](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/11) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
 <!--END_SECTION:activity-->
