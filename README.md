@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/13) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-2. 💪 Opened PR [#13](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/13) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-3. 🎉 Merged PR [#12](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/12) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-4. 💪 Opened PR [#12](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/12) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-5. 🗣 Commented on [#7](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/7#issuecomment-3201894038) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+1. 🎉 Merged PR [#14](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/14) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+2. 💪 Opened PR [#14](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/14) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+3. 🎉 Merged PR [#13](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/13) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+4. 💪 Opened PR [#13](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/13) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+5. 🎉 Merged PR [#12](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/12) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
 <!--END_SECTION:activity-->
