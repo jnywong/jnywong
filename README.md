@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6589](https://github.com/2i2c-org/infrastructure/issues/6589) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#18](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/18) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-3. 🔒 Closed issue [#6393](https://github.com/2i2c-org/infrastructure/issues/6393) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#7](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/7) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-5. 💪 Opened PR [#18](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/18) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+1. ❌ Closed PR [#248](https://github.com/2i2c-org/frx-challenges/pull/248) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+2. 💪 Opened PR [#248](https://github.com/2i2c-org/frx-challenges/pull/248) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+3. ❌ Closed PR [#247](https://github.com/2i2c-org/frx-challenges/pull/247) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+4. 💪 Opened PR [#247](https://github.com/2i2c-org/frx-challenges/pull/247) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+5. 🔒 Closed issue [#6589](https://github.com/2i2c-org/infrastructure/issues/6589) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
