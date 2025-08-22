@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/2i2c-org/frx-challenges-deploy/pull/91) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
-2. 💪 Opened PR [#91](https://github.com/2i2c-org/frx-challenges-deploy/pull/91) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
-3. 🎉 Merged PR [#88](https://github.com/2i2c-org/frx-challenges-deploy/pull/88) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
-4. 💪 Opened PR [#88](https://github.com/2i2c-org/frx-challenges-deploy/pull/88) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
-5. 🗣 Commented on [#5344](https://github.com/2i2c-org/infrastructure/issues/5344#issuecomment-3211308167) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#18](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/18) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+2. 🗣 Commented on [#15](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/15#issuecomment-3213961726) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+3. 🔒 Closed issue [#15](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/15) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+4. 🎉 Merged PR [#91](https://github.com/2i2c-org/frx-challenges-deploy/pull/91) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
+5. 💪 Opened PR [#91](https://github.com/2i2c-org/frx-challenges-deploy/pull/91) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
 <!--END_SECTION:activity-->
