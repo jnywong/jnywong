@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/2i2c-org/docs/pull/269#issuecomment-3311310472) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-2. 🗣 Commented on [#6648](https://github.com/2i2c-org/infrastructure/issues/6648#issuecomment-3303449737) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#92](https://github.com/2i2c-org/frx-challenges-deploy/pull/92) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
-4. 🔒 Closed issue [#6762](https://github.com/2i2c-org/infrastructure/issues/6762) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#6764](https://github.com/2i2c-org/infrastructure/pull/6764) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#492](https://github.com/2i2c-org/2i2c-org.github.io/issues/492#issuecomment-3311364353) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 🗣 Commented on [#269](https://github.com/2i2c-org/docs/pull/269#issuecomment-3311310472) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+3. 🗣 Commented on [#6648](https://github.com/2i2c-org/infrastructure/issues/6648#issuecomment-3303449737) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#92](https://github.com/2i2c-org/frx-challenges-deploy/pull/92) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
+5. 🔒 Closed issue [#6762](https://github.com/2i2c-org/infrastructure/issues/6762) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
