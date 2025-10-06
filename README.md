@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/19) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-2. 🔒 Closed issue [#16](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/16) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-3. 🎉 Merged PR [#20](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/20) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-4. 💪 Opened PR [#20](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/20) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-5. 🗣 Commented on [#54](https://github.com/2i2c-org/jupyterhub-cost-monitoring/issues/54#issuecomment-3365830169) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+1. 🚀 Published release [v1.0.0](https://github.com/2i2c-org/jupyterhub-groups-exporter/releases/tag/v1.0.0) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+2. 🎉 Merged PR [#19](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/19) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+3. 🔒 Closed issue [#16](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/16) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+4. 🎉 Merged PR [#20](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/20) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+5. 💪 Opened PR [#20](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/20) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
 <!--END_SECTION:activity-->
