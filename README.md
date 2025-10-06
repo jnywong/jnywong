@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/21) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-2. 💪 Opened PR [#21](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/21) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-3. 🚀 Published release [v1.0.0](https://github.com/2i2c-org/jupyterhub-groups-exporter/releases/tag/v1.0.0) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-4. 🎉 Merged PR [#19](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/19) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-5. 🔒 Closed issue [#16](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/16) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+1. 🗣 Commented on [#6861](https://github.com/2i2c-org/infrastructure/issues/6861#issuecomment-3371237352) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#21](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/21) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+3. 💪 Opened PR [#21](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/21) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+4. 🚀 Published release [v1.0.0](https://github.com/2i2c-org/jupyterhub-groups-exporter/releases/tag/v1.0.0) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+5. 🎉 Merged PR [#19](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/19) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
 <!--END_SECTION:activity-->
