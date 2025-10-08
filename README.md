@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/30) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-2. 🎉 Merged PR [#28](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/28) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-3. 🎉 Merged PR [#29](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/29) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-4. 💪 Opened PR [#29](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/29) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-5. 💪 Opened PR [#28](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/28) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+1. 🗣 Commented on [#508](https://github.com/2i2c-org/2i2c-org.github.io/pull/508#issuecomment-3380353134) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 💪 Opened PR [#30](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/30) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+3. 🎉 Merged PR [#28](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/28) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+4. 🎉 Merged PR [#29](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/29) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+5. 💪 Opened PR [#29](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/29) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
 <!--END_SECTION:activity-->
