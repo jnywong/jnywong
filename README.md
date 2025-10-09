@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5876](https://github.com/2i2c-org/infrastructure/issues/5876#issuecomment-3382183670) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#66](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/66) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-3. 🎉 Merged PR [#31](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/31) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-4. 💪 Opened PR [#31](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/31) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-5. 🗣 Commented on [#6861](https://github.com/2i2c-org/infrastructure/issues/6861#issuecomment-3380725923) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#6903](https://github.com/2i2c-org/infrastructure/issues/6903) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#5876](https://github.com/2i2c-org/infrastructure/issues/5876#issuecomment-3382183670) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#66](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/66) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+4. 🎉 Merged PR [#31](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/31) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+5. 💪 Opened PR [#31](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/31) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
 <!--END_SECTION:activity-->
