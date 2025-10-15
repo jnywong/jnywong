@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#277](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-2. 🔒 Closed issue [#6861](https://github.com/2i2c-org/infrastructure/issues/6861) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#6861](https://github.com/2i2c-org/infrastructure/issues/6861#issuecomment-3401978645) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#37](undefined) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-5. 🗣 Commented on [#6692](https://github.com/2i2c-org/infrastructure/issues/6692#issuecomment-3401790720) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#6940](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#277](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+3. 🔒 Closed issue [#6861](https://github.com/2i2c-org/infrastructure/issues/6861) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#6861](https://github.com/2i2c-org/infrastructure/issues/6861#issuecomment-3401978645) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#37](undefined) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
 <!--END_SECTION:activity-->
