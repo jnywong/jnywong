@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#7016](https://github.com/2i2c-org/infrastructure/issues/7016) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#7016](https://github.com/2i2c-org/infrastructure/issues/7016) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#165](https://github.com/NASA-Openscapes/workshop-planning/issues/165#issuecomment-3438045300) in [NASA-Openscapes/workshop-planning](https://github.com/NASA-Openscapes/workshop-planning)
-4. ❌ Closed PR [#331](undefined) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-5. 💪 Opened PR [#84](undefined) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+1. 🗣 Commented on [#7016](https://github.com/2i2c-org/infrastructure/issues/7016#issuecomment-3438206165) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#85](undefined) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+3.  Assigned issue [#7016](https://github.com/2i2c-org/infrastructure/issues/7016) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#7016](https://github.com/2i2c-org/infrastructure/issues/7016) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#165](https://github.com/NASA-Openscapes/workshop-planning/issues/165#issuecomment-3438045300) in [NASA-Openscapes/workshop-planning](https://github.com/NASA-Openscapes/workshop-planning)
 <!--END_SECTION:activity-->
