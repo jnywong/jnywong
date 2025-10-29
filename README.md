@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7048](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🚀 Published release [v1.1.0](https://github.com/2i2c-org/jupyterhub-groups-exporter/releases/tag/v1.1.0) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-3. 🚀 Published release [v1.1.0](https://github.com/2i2c-org/jupyterhub-cost-monitoring/releases/tag/v1.1.0) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-4. 💪 Opened PR [#7047](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#7032](https://github.com/2i2c-org/infrastructure/issues/7032) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#7047](https://github.com/2i2c-org/infrastructure/pull/7047#issuecomment-3460971954) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❌ Closed PR [#7047](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#7048](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🚀 Published release [v1.1.0](https://github.com/2i2c-org/jupyterhub-groups-exporter/releases/tag/v1.1.0) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+5. 🚀 Published release [v1.1.0](https://github.com/2i2c-org/jupyterhub-cost-monitoring/releases/tag/v1.1.0) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
 <!--END_SECTION:activity-->
