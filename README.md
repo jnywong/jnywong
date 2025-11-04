@@ -1,4 +1,4 @@
-![jnywong](https://readme-typing-svg.demolab.com/?font=Intel+One+Mono&size=36&duration=3000&pause=1000&color=6bc46d&vCenter=true&width=170&lines=jnywong)
+<img src="./jnywong.gif" alt="Snazzy gif of GitHub username handle." width="200" height="50">
 
 ✨ She/her
 
