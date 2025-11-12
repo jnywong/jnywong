@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6858](https://github.com/2i2c-org/infrastructure/issues/6858#issuecomment-3521438282) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#23](undefined) in [jnywong/jnywong.github.io](https://github.com/jnywong/jnywong.github.io)
-3. 🔒 Closed issue [#158](https://github.com/jupyterhub/grafana-dashboards/issues/158) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-4. 🔒 Closed issue [#157](https://github.com/jupyterhub/grafana-dashboards/issues/157) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-5. 🔒 Closed issue [#6348](https://github.com/2i2c-org/infrastructure/issues/6348) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#6320](https://github.com/2i2c-org/infrastructure/issues/6320#issuecomment-3521650056) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#6858](https://github.com/2i2c-org/infrastructure/issues/6858#issuecomment-3521438282) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#23](undefined) in [jnywong/jnywong.github.io](https://github.com/jnywong/jnywong.github.io)
+4. 🔒 Closed issue [#158](https://github.com/jupyterhub/grafana-dashboards/issues/158) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+5. 🔒 Closed issue [#157](https://github.com/jupyterhub/grafana-dashboards/issues/157) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
 <!--END_SECTION:activity-->
