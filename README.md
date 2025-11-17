@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7026](https://github.com/2i2c-org/infrastructure/issues/7026#issuecomment-3542608833) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7034](https://github.com/2i2c-org/infrastructure/issues/7034#issuecomment-3542545224) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#168](https://github.com/jupyterhub/grafana-dashboards/pull/168#issuecomment-3542402660) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-4. 🗣 Commented on [#7098](https://github.com/2i2c-org/infrastructure/issues/7098#issuecomment-3542044480) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#7098](https://github.com/2i2c-org/infrastructure/issues/7098) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#7034](https://github.com/2i2c-org/infrastructure/issues/7034#issuecomment-3542744065) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7026](https://github.com/2i2c-org/infrastructure/issues/7026#issuecomment-3542608833) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#7034](https://github.com/2i2c-org/infrastructure/issues/7034#issuecomment-3542545224) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#168](https://github.com/jupyterhub/grafana-dashboards/pull/168#issuecomment-3542402660) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+5. 🗣 Commented on [#7098](https://github.com/2i2c-org/infrastructure/issues/7098#issuecomment-3542044480) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
