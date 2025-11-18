@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7097](https://github.com/2i2c-org/infrastructure/issues/7097#issuecomment-3548314265) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7026](https://github.com/2i2c-org/infrastructure/issues/7026#issuecomment-3547639739) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#39](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/39) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-4. 💪 Opened PR [#42](undefined) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
-5. 💪 Opened PR [#7126](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#174](https://github.com/jupyterhub/grafana-dashboards/pull/174#issuecomment-3549381705) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+2. 🗣 Commented on [#7097](https://github.com/2i2c-org/infrastructure/issues/7097#issuecomment-3548314265) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#7026](https://github.com/2i2c-org/infrastructure/issues/7026#issuecomment-3547639739) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#39](https://github.com/2i2c-org/jupyterhub-groups-exporter/issues/39) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+5. 💪 Opened PR [#42](undefined) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
 <!--END_SECTION:activity-->
