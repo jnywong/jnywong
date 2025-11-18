@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](undefined) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-2. 🗣 Commented on [#7034](https://github.com/2i2c-org/infrastructure/issues/7034#issuecomment-3542744065) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#7026](https://github.com/2i2c-org/infrastructure/issues/7026#issuecomment-3542608833) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#7034](https://github.com/2i2c-org/infrastructure/issues/7034#issuecomment-3542545224) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#168](https://github.com/jupyterhub/grafana-dashboards/pull/168#issuecomment-3542402660) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+1. 🔒 Closed issue [#167](https://github.com/jupyterhub/grafana-dashboards/issues/167) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+2. 🗣 Commented on [#167](https://github.com/jupyterhub/grafana-dashboards/issues/167#issuecomment-3546780275) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+3. 🗣 Commented on [#169](https://github.com/jupyterhub/grafana-dashboards/pull/169#issuecomment-3546769144) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+4. 💪 Opened PR [#93](undefined) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+5. 🗣 Commented on [#7034](https://github.com/2i2c-org/infrastructure/issues/7034#issuecomment-3542744065) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
