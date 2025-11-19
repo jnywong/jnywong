@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7097](https://github.com/2i2c-org/infrastructure/issues/7097#issuecomment-3552043840) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7034](https://github.com/2i2c-org/infrastructure/issues/7034#issuecomment-3552033566) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#95](https://github.com/2i2c-org/jupyterhub-cost-monitoring/issues/95) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-4. 🗣 Commented on [#7029](https://github.com/2i2c-org/infrastructure/issues/7029#issuecomment-3551817315) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#7132](https://github.com/2i2c-org/infrastructure/issues/7132) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#7097](https://github.com/2i2c-org/infrastructure/issues/7097) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7097](https://github.com/2i2c-org/infrastructure/issues/7097#issuecomment-3553124776) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#7097](https://github.com/2i2c-org/infrastructure/issues/7097#issuecomment-3552043840) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#7034](https://github.com/2i2c-org/infrastructure/issues/7034#issuecomment-3552033566) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#95](https://github.com/2i2c-org/jupyterhub-cost-monitoring/issues/95) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
 <!--END_SECTION:activity-->
