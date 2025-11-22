@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7154](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#6858](https://github.com/2i2c-org/infrastructure/issues/6858) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#283](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-4. 🗣 Commented on [#18135](https://github.com/jupyterlab/jupyterlab/issues/18135#issuecomment-3562849136) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
-5. 💪 Opened PR [#98](undefined) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+1. 🗣 Commented on [#5201](https://github.com/jupyterhub/jupyterhub/issues/5201#issuecomment-3566875158) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+2. 💪 Opened PR [#7154](undefined) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#6858](https://github.com/2i2c-org/infrastructure/issues/6858) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#283](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+5. 🗣 Commented on [#18135](https://github.com/jupyterlab/jupyterlab/issues/18135#issuecomment-3562849136) in [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
 <!--END_SECTION:activity-->
