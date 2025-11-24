@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6321](https://github.com/2i2c-org/infrastructure/issues/6321) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#284](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-3. 🗣 Commented on [#6321](https://github.com/2i2c-org/infrastructure/issues/6321#issuecomment-3570571325) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#6860](https://github.com/2i2c-org/infrastructure/issues/6860) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#175](https://github.com/jupyterhub/grafana-dashboards/pull/175#issuecomment-3570316971) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+1. 💪 Opened PR [#99](undefined) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+2. 🔒 Closed issue [#6321](https://github.com/2i2c-org/infrastructure/issues/6321) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#284](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+4. 🗣 Commented on [#6321](https://github.com/2i2c-org/infrastructure/issues/6321#issuecomment-3570571325) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#6860](https://github.com/2i2c-org/infrastructure/issues/6860) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
