@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7082](https://github.com/2i2c-org/infrastructure/issues/7082#issuecomment-3595690009) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#177](https://github.com/jupyterhub/grafana-dashboards/issues/177#issuecomment-3595340180) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-3. 🔒 Closed issue [#104](https://github.com/2i2c-org/jupyterhub-cost-monitoring/issues/104) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-4. 💪 Opened PR [#105](undefined) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-5. 🗣 Commented on [#104](https://github.com/2i2c-org/jupyterhub-cost-monitoring/issues/104#issuecomment-3582368781) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+1. 🗣 Commented on [#7084](https://github.com/2i2c-org/infrastructure/issues/7084#issuecomment-3595822788) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7084](https://github.com/2i2c-org/infrastructure/issues/7084#issuecomment-3595812115) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#378](https://github.com/jupyterhub/nbgitpuller/issues/378#issuecomment-3595785289) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+4. 🗣 Commented on [#7084](https://github.com/2i2c-org/infrastructure/issues/7084#issuecomment-3595754631) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#7084](https://github.com/2i2c-org/infrastructure/issues/7084#issuecomment-3595742943) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
