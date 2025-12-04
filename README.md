@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#287](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-2. 💪 Opened PR [#287](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-3. 🗣 Commented on [#380](https://github.com/jupyterhub/nbgitpuller/pull/380#issuecomment-3608009140) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-4. 🗣 Commented on [#857](https://github.com/jupyterhub/team-compass/pull/857#issuecomment-3607798260) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
-5. 💪 Opened PR [#857](undefined) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
+1. 🗣 Commented on [#857](https://github.com/jupyterhub/team-compass/pull/857#issuecomment-3614262889) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
+2. ❌ Merged PR [#287](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+3. 💪 Opened PR [#287](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+4. 🗣 Commented on [#380](https://github.com/jupyterhub/nbgitpuller/pull/380#issuecomment-3608009140) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+5. 🗣 Commented on [#857](https://github.com/jupyterhub/team-compass/pull/857#issuecomment-3607798260) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
 <!--END_SECTION:activity-->
