@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#7083](https://github.com/2i2c-org/infrastructure/issues/7083) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#7082](https://github.com/2i2c-org/infrastructure/issues/7082) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#857](https://github.com/jupyterhub/team-compass/pull/857#issuecomment-3614262889) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
-4. ❌ Merged PR [#287](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-5. 💪 Opened PR [#287](undefined) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+1. 🗣 Commented on [#382](https://github.com/jupyterhub/nbgitpuller/pull/382#issuecomment-3617394140) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+2. 💪 Opened PR [#382](undefined) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+3.  Assigned issue [#7083](https://github.com/2i2c-org/infrastructure/issues/7083) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#7082](https://github.com/2i2c-org/infrastructure/issues/7082) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#857](https://github.com/jupyterhub/team-compass/pull/857#issuecomment-3614262889) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
 <!--END_SECTION:activity-->
