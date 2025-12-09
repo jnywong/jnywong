@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#382](https://github.com/jupyterhub/nbgitpuller/pull/382#issuecomment-3633259580) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-2. ❌ Merged PR [#382](undefined) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-3. 🗣 Commented on [#179](https://github.com/jupyterhub/grafana-dashboards/pull/179#issuecomment-3627224235) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-4. ❌ Merged PR [#857](undefined) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
-5. 🗣 Commented on [#857](https://github.com/jupyterhub/team-compass/pull/857#issuecomment-3617452746) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
+1.  Assigned issue [#7123](https://github.com/2i2c-org/infrastructure/issues/7123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2.  Unassigned issue [#7123](https://github.com/2i2c-org/infrastructure/issues/7123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3.  Unassigned issue [#7123](https://github.com/2i2c-org/infrastructure/issues/7123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4.  Assigned issue [#7122](https://github.com/2i2c-org/infrastructure/issues/7122) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5.  Unassigned issue [#7122](https://github.com/2i2c-org/infrastructure/issues/7122) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
