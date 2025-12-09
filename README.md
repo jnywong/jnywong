@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#7](undefined) in [jupyter/schema](https://github.com/jupyter/schema)
-2.  Assigned issue [#7123](https://github.com/2i2c-org/infrastructure/issues/7123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3.  Unassigned issue [#7123](https://github.com/2i2c-org/infrastructure/issues/7123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4.  Unassigned issue [#7123](https://github.com/2i2c-org/infrastructure/issues/7123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5.  Assigned issue [#7122](https://github.com/2i2c-org/infrastructure/issues/7122) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#7123](https://github.com/2i2c-org/infrastructure/issues/7123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#7122](https://github.com/2i2c-org/infrastructure/issues/7122) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❌ Merged PR [#7](undefined) in [jupyter/schema](https://github.com/jupyter/schema)
+4.  Assigned issue [#7123](https://github.com/2i2c-org/infrastructure/issues/7123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5.  Unassigned issue [#7123](https://github.com/2i2c-org/infrastructure/issues/7123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
