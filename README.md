@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#251](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-2. 🗣 Commented on [#250](https://github.com/2i2c-org/frx-challenges/pull/250#issuecomment-3665112440) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-3. ❌ Closed PR [#250](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-4. 💪 Opened PR [#250](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-5. ❌ Closed PR [#249](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+1. 💪 Opened PR [#252](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+2. ❌ Closed PR [#251](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+3. 🗣 Commented on [#251](https://github.com/2i2c-org/frx-challenges/pull/251#issuecomment-3665151445) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+4. 💪 Opened PR [#251](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+5. 🗣 Commented on [#250](https://github.com/2i2c-org/frx-challenges/pull/250#issuecomment-3665112440) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
 <!--END_SECTION:activity-->
