@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7292](https://github.com/2i2c-org/infrastructure/issues/7292#issuecomment-3664689526) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7284](https://github.com/2i2c-org/infrastructure/issues/7284#issuecomment-3655281386) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#383](https://github.com/jupyterhub/nbgitpuller/pull/383#issuecomment-3642996310) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-4. 💪 Opened PR [#383](undefined) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-5.  Assigned issue [#6442](https://github.com/2i2c-org/infrastructure/issues/6442) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#251](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+2. 🗣 Commented on [#250](https://github.com/2i2c-org/frx-challenges/pull/250#issuecomment-3665112440) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+3. ❌ Closed PR [#250](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+4. 💪 Opened PR [#250](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+5. ❌ Closed PR [#249](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
 <!--END_SECTION:activity-->
