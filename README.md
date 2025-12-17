@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [janelia-cellmap/frx-challenges](https://github.com/janelia-cellmap/frx-challenges)
-2. 🗣 Commented on [#252](https://github.com/2i2c-org/frx-challenges/pull/252#issuecomment-3665429430) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-3. ❌ Closed PR [#252](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
-4. 🗣 Commented on [#7278](https://github.com/2i2c-org/infrastructure/issues/7278#issuecomment-3665413207) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#252](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+1. 🗣 Commented on [#2](https://github.com/janelia-cellmap/frx-challenges/pull/2#issuecomment-3665770116) in [janelia-cellmap/frx-challenges](https://github.com/janelia-cellmap/frx-challenges)
+2. 💪 Opened PR [#2](undefined) in [janelia-cellmap/frx-challenges](https://github.com/janelia-cellmap/frx-challenges)
+3. 🗣 Commented on [#252](https://github.com/2i2c-org/frx-challenges/pull/252#issuecomment-3665429430) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+4. ❌ Closed PR [#252](undefined) in [2i2c-org/frx-challenges](https://github.com/2i2c-org/frx-challenges)
+5. 🗣 Commented on [#7278](https://github.com/2i2c-org/infrastructure/issues/7278#issuecomment-3665413207) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
