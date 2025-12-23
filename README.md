@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2604](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
-2. ❌ Merged PR [#97](undefined) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
-3. ❌ Merged PR [#2](undefined) in [janelia-cellmap/frx-challenges](https://github.com/janelia-cellmap/frx-challenges)
-4. 🗣 Commented on [#97](https://github.com/2i2c-org/frx-challenges-deploy/pull/97#issuecomment-3666176359) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
-5. 💪 Opened PR [#97](undefined) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
+1. ❌ Merged PR [#2604](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+2. 💪 Opened PR [#2604](undefined) in [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd)
+3. ❌ Merged PR [#97](undefined) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
+4. ❌ Merged PR [#2](undefined) in [janelia-cellmap/frx-challenges](https://github.com/janelia-cellmap/frx-challenges)
+5. 🗣 Commented on [#97](https://github.com/2i2c-org/frx-challenges-deploy/pull/97#issuecomment-3666176359) in [2i2c-org/frx-challenges-deploy](https://github.com/2i2c-org/frx-challenges-deploy)
 <!--END_SECTION:activity-->
