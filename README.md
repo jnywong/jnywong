@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#869](https://github.com/jupyterhub/team-compass/issues/869#issuecomment-3714063513) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
-2. 🎉 Merged PR [#107](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/107) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-3. 💪 Opened PR [#107](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/107) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-4. 🎉 Merged PR [#26](https://github.com/jnywong/jnywong.github.io/pull/26) in [jnywong/jnywong.github.io](https://github.com/jnywong/jnywong.github.io)
-5. 💪 Opened PR [#26](https://github.com/jnywong/jnywong.github.io/pull/26) in [jnywong/jnywong.github.io](https://github.com/jnywong/jnywong.github.io)
+1. 🗣 Commented on [#7085](https://github.com/2i2c-org/infrastructure/issues/7085#issuecomment-3719319360) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#383](https://github.com/jupyterhub/nbgitpuller/pull/383#issuecomment-3719299750) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+3. 🗣 Commented on [#869](https://github.com/jupyterhub/team-compass/issues/869#issuecomment-3714063513) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
+4. 🎉 Merged PR [#107](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/107) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+5. 💪 Opened PR [#107](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/107) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
 <!--END_SECTION:activity-->
