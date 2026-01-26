@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#385](https://github.com/jupyterhub/nbgitpuller/pull/385#issuecomment-3799264113) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-2. ❌ Closed PR [#385](https://github.com/jupyterhub/nbgitpuller/pull/385) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-3. 🎉 Merged PR [#7477](https://github.com/2i2c-org/infrastructure/pull/7477) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#7227](https://github.com/2i2c-org/infrastructure/issues/7227#issuecomment-3784036249) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#7477](https://github.com/2i2c-org/infrastructure/pull/7477) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#383](https://github.com/jupyterhub/nbgitpuller/pull/383#issuecomment-3799708211) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+2. 🗣 Commented on [#385](https://github.com/jupyterhub/nbgitpuller/pull/385#issuecomment-3799264113) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+3. ❌ Closed PR [#385](https://github.com/jupyterhub/nbgitpuller/pull/385) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+4. 🎉 Merged PR [#7477](https://github.com/2i2c-org/infrastructure/pull/7477) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#7227](https://github.com/2i2c-org/infrastructure/issues/7227#issuecomment-3784036249) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
