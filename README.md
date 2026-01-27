@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7162](https://github.com/2i2c-org/infrastructure/issues/7162) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7455](https://github.com/2i2c-org/infrastructure/issues/7455#issuecomment-3804136035) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#2](https://github.com/jnywong/hub-user-image-test/pull/2) in [jnywong/hub-user-image-test](https://github.com/jnywong/hub-user-image-test)
-4. 🎉 Merged PR [#1](https://github.com/jnywong/hub-user-image-test/pull/1) in [jnywong/hub-user-image-test](https://github.com/jnywong/hub-user-image-test)
-5. 💪 Opened PR [#1](https://github.com/jnywong/hub-user-image-test/pull/1) in [jnywong/hub-user-image-test](https://github.com/jnywong/hub-user-image-test)
+1. ❗ Opened issue [#7502](https://github.com/2i2c-org/infrastructure/issues/7502) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#7501](https://github.com/2i2c-org/infrastructure/issues/7501) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#7162](https://github.com/2i2c-org/infrastructure/issues/7162) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#7455](https://github.com/2i2c-org/infrastructure/issues/7455#issuecomment-3804136035) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#2](https://github.com/jnywong/hub-user-image-test/pull/2) in [jnywong/hub-user-image-test](https://github.com/jnywong/hub-user-image-test)
 <!--END_SECTION:activity-->
