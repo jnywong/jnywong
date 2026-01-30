@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jnywong/jupyterhub-usage-quotas/pull/1) in [jnywong/jupyterhub-usage-quotas](https://github.com/jnywong/jupyterhub-usage-quotas)
-2. 💪 Opened PR [#1](https://github.com/jnywong/jupyterhub-usage-quotas/pull/1) in [jnywong/jupyterhub-usage-quotas](https://github.com/jnywong/jupyterhub-usage-quotas)
-3. 💪 Opened PR [#1](https://github.com/2i2c-org/package-template/pull/1) in [2i2c-org/package-template](https://github.com/2i2c-org/package-template)
-4. ❌ Closed PR [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
-5. 🗣 Commented on [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147#issuecomment-3823029447) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
+1. 🗣 Commented on [#7513](https://github.com/2i2c-org/infrastructure/issues/7513#issuecomment-3824385698) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#1](https://github.com/jnywong/jupyterhub-usage-quotas/pull/1) in [jnywong/jupyterhub-usage-quotas](https://github.com/jnywong/jupyterhub-usage-quotas)
+3. 💪 Opened PR [#1](https://github.com/jnywong/jupyterhub-usage-quotas/pull/1) in [jnywong/jupyterhub-usage-quotas](https://github.com/jnywong/jupyterhub-usage-quotas)
+4. 💪 Opened PR [#1](https://github.com/2i2c-org/package-template/pull/1) in [2i2c-org/package-template](https://github.com/2i2c-org/package-template)
+5. ❌ Closed PR [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
 <!--END_SECTION:activity-->
