@@ -15,7 +15,7 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/2i2c-org/pyos-package-template-minus-vc/pull/1) in [2i2c-org/pyos-package-template-minus-vc](https://github.com/2i2c-org/pyos-package-template-minus-vc)
+1. 💪 Opened PR [#1](https://github.com/2i2c-org/package-template/pull/1) in [2i2c-org/package-template](https://github.com/2i2c-org/package-template)
 2. ❌ Closed PR [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
 3. 🗣 Commented on [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147#issuecomment-3823029447) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
 4. 💪 Opened PR [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
