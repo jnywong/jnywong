@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#387](https://github.com/jupyterhub/nbgitpuller/pull/387#issuecomment-3819380853) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-2. 🗣 Commented on [#383](https://github.com/jupyterhub/nbgitpuller/pull/383#issuecomment-3817811495) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-3. 🗣 Commented on [#7518](https://github.com/2i2c-org/infrastructure/issues/7518#issuecomment-3816665066) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#295](https://github.com/2i2c-org/docs/pull/295) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-5. 🔒 Closed issue [#7304](https://github.com/2i2c-org/infrastructure/issues/7304) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#1](https://github.com/2i2c-org/pyos-package-template-minus-vc/pull/1) in [2i2c-org/pyos-package-template-minus-vc](https://github.com/2i2c-org/pyos-package-template-minus-vc)
+2. ❌ Closed PR [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
+3. 🗣 Commented on [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147#issuecomment-3823029447) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
+4. 💪 Opened PR [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
+5. 🗣 Commented on [#387](https://github.com/jupyterhub/nbgitpuller/pull/387#issuecomment-3819380853) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
 <!--END_SECTION:activity-->
