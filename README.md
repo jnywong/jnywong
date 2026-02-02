@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7546](https://github.com/2i2c-org/infrastructure/issues/7546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#7545](https://github.com/2i2c-org/infrastructure/issues/7545) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#7158](https://github.com/2i2c-org/infrastructure/issues/7158) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#7544](https://github.com/2i2c-org/infrastructure/issues/7544) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#7543](https://github.com/2i2c-org/infrastructure/issues/7543) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#7552](https://github.com/2i2c-org/infrastructure/issues/7552) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#7551](https://github.com/2i2c-org/infrastructure/issues/7551) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#7548](https://github.com/2i2c-org/infrastructure/issues/7548) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#7547](https://github.com/2i2c-org/infrastructure/issues/7547) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ❗ Opened issue [#7546](https://github.com/2i2c-org/infrastructure/issues/7546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
