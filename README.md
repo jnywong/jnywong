@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#387](https://github.com/jupyterhub/nbgitpuller/pull/387#issuecomment-3835470530) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-2. ❌ Closed PR [#7476](https://github.com/2i2c-org/infrastructure/pull/7476) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#7513](https://github.com/2i2c-org/infrastructure/issues/7513#issuecomment-3824385698) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#1](https://github.com/jnywong/jupyterhub-usage-quotas/pull/1) in [jnywong/jupyterhub-usage-quotas](https://github.com/jnywong/jupyterhub-usage-quotas)
-5. 💪 Opened PR [#1](https://github.com/jnywong/jupyterhub-usage-quotas/pull/1) in [jnywong/jupyterhub-usage-quotas](https://github.com/jnywong/jupyterhub-usage-quotas)
+1. ❗ Opened issue [#7543](https://github.com/2i2c-org/infrastructure/issues/7543) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#7542](https://github.com/2i2c-org/infrastructure/issues/7542) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❌ Closed PR [#1073](https://github.com/2i2c-org/team-compass/pull/1073) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+4. 💪 Opened PR [#1073](https://github.com/2i2c-org/team-compass/pull/1073) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+5. 🗣 Commented on [#387](https://github.com/jupyterhub/nbgitpuller/pull/387#issuecomment-3835470530) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
 <!--END_SECTION:activity-->
