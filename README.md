@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7560](https://github.com/2i2c-org/infrastructure/issues/7560) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ❗ Opened issue [#7570](https://github.com/2i2c-org/infrastructure/issues/7570) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#7569](https://github.com/2i2c-org/infrastructure/issues/7569) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#7567](https://github.com/2i2c-org/infrastructure/issues/7567) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#7566](https://github.com/2i2c-org/infrastructure/issues/7566) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#7455](https://github.com/2i2c-org/infrastructure/issues/7455) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#7455](https://github.com/2i2c-org/infrastructure/issues/7455#issuecomment-3842659318) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#7575](https://github.com/2i2c-org/infrastructure/issues/7575) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#383](https://github.com/jupyterhub/nbgitpuller/pull/383) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+5. 🔒 Closed issue [#7560](https://github.com/2i2c-org/infrastructure/issues/7560) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
