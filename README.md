@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7391](https://github.com/2i2c-org/infrastructure/issues/7391#issuecomment-3852429789) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#876](https://github.com/jupyterhub/team-compass/pull/876#issuecomment-3852265432) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
-3. ℹ️ Assigned issue [#23](https://github.com/2i2c-org/initiatives/issues/23) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-4. ℹ️ Labeled issue [#7542](https://github.com/2i2c-org/infrastructure/issues/7542) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#7583](https://github.com/2i2c-org/infrastructure/issues/7583#issuecomment-3848914916) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#383](https://github.com/jupyterhub/nbgitpuller/pull/383#issuecomment-3852833002) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+2. 🗣 Commented on [#876](https://github.com/jupyterhub/team-compass/pull/876#issuecomment-3852526716) in [jupyterhub/team-compass](https://github.com/jupyterhub/team-compass)
+3. 🎉 Merged PR [#391](https://github.com/jupyterhub/nbgitpuller/pull/391) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+4. 🗣 Commented on [#391](https://github.com/jupyterhub/nbgitpuller/pull/391#issuecomment-3852703951) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+5. 💪 Opened PR [#391](https://github.com/jupyterhub/nbgitpuller/pull/391) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
 <!--END_SECTION:activity-->
