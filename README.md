@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#9255](https://github.com/pypi/support/issues/9255) in [pypi/support](https://github.com/pypi/support)
-2. ❗ Opened issue [#9255](https://github.com/pypi/support/issues/9255) in [pypi/support](https://github.com/pypi/support)
-3. 🗣 Commented on [#392](https://github.com/jupyterhub/nbgitpuller/issues/392#issuecomment-3859337708) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-4. 🔒 Closed issue [#571](https://github.com/2i2c-org/2i2c-org.github.io/issues/571) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-5. 🔒 Closed issue [#7104](https://github.com/2i2c-org/infrastructure/issues/7104) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#2](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/2) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+2. ℹ️ Labeled issue [#9255](https://github.com/pypi/support/issues/9255) in [pypi/support](https://github.com/pypi/support)
+3. ❗ Opened issue [#9255](https://github.com/pypi/support/issues/9255) in [pypi/support](https://github.com/pypi/support)
+4. 🗣 Commented on [#392](https://github.com/jupyterhub/nbgitpuller/issues/392#issuecomment-3859337708) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+5. 🔒 Closed issue [#571](https://github.com/2i2c-org/2i2c-org.github.io/issues/571) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
 <!--END_SECTION:activity-->
