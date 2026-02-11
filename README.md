@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6989](https://github.com/2i2c-org/infrastructure/issues/6989) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#6989](https://github.com/2i2c-org/infrastructure/issues/6989#issuecomment-3885439915) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#7642](https://github.com/2i2c-org/infrastructure/issues/7642) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#3](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/3) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-5. 💪 Opened PR [#3](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/3) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+1. 🗣 Commented on [#7580](https://github.com/2i2c-org/infrastructure/issues/7580#issuecomment-3886947905) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#6989](https://github.com/2i2c-org/infrastructure/issues/6989) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#6989](https://github.com/2i2c-org/infrastructure/issues/6989#issuecomment-3885439915) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#7642](https://github.com/2i2c-org/infrastructure/issues/7642) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#3](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/3) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
 <!--END_SECTION:activity-->
