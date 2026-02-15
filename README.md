@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7545](https://github.com/2i2c-org/infrastructure/issues/7545) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7193](https://github.com/2i2c-org/infrastructure/issues/7193#issuecomment-3897418600) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#9255](https://github.com/pypi/support/issues/9255#issuecomment-3897245992) in [pypi/support](https://github.com/pypi/support)
-4. 🎉 Merged PR [#7659](https://github.com/2i2c-org/infrastructure/pull/7659) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#7659](https://github.com/2i2c-org/infrastructure/pull/7659) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#5](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/5) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+2. 💪 Opened PR [#5](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/5) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+3. 🔒 Closed issue [#7545](https://github.com/2i2c-org/infrastructure/issues/7545) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#7193](https://github.com/2i2c-org/infrastructure/issues/7193#issuecomment-3897418600) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#9255](https://github.com/pypi/support/issues/9255#issuecomment-3897245992) in [pypi/support](https://github.com/pypi/support)
 <!--END_SECTION:activity-->
