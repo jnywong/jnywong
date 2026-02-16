@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#559](https://github.com/jupyterhub/jupyter-server-proxy/pull/559) in [jupyterhub/jupyter-server-proxy](https://github.com/jupyterhub/jupyter-server-proxy)
-2. 💪 Opened PR [#559](https://github.com/jupyterhub/jupyter-server-proxy/pull/559) in [jupyterhub/jupyter-server-proxy](https://github.com/jupyterhub/jupyter-server-proxy)
-3. ℹ️ Assigned issue [#7556](https://github.com/2i2c-org/infrastructure/issues/7556) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#7501](https://github.com/2i2c-org/infrastructure/issues/7501) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned issue [#7581](https://github.com/2i2c-org/infrastructure/issues/7581) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❗ Opened issue [#35](https://github.com/2i2c-org/initiatives/issues/35) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+2. 🔒 Closed issue [#7513](https://github.com/2i2c-org/infrastructure/issues/7513) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#548](https://github.com/jupyterhub/jupyter-server-proxy/pull/548#issuecomment-3908105068) in [jupyterhub/jupyter-server-proxy](https://github.com/jupyterhub/jupyter-server-proxy)
+4. 🎉 Merged PR [#559](https://github.com/jupyterhub/jupyter-server-proxy/pull/559) in [jupyterhub/jupyter-server-proxy](https://github.com/jupyterhub/jupyter-server-proxy)
+5. 💪 Opened PR [#559](https://github.com/jupyterhub/jupyter-server-proxy/pull/559) in [jupyterhub/jupyter-server-proxy](https://github.com/jupyterhub/jupyter-server-proxy)
 <!--END_SECTION:activity-->
