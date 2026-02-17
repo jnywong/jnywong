@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7546](https://github.com/2i2c-org/infrastructure/issues/7546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#7636](https://github.com/2i2c-org/infrastructure/issues/7636#issuecomment-3913427383) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#7583](https://github.com/2i2c-org/infrastructure/issues/7583#issuecomment-3909351394) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#6](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/6) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-5. ℹ️ Assigned issue [#7546](https://github.com/2i2c-org/infrastructure/issues/7546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147#issuecomment-3916905844) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
+2. 🗣 Commented on [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147#issuecomment-3916902475) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
+3. 🔒 Closed issue [#7546](https://github.com/2i2c-org/infrastructure/issues/7546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#7636](https://github.com/2i2c-org/infrastructure/issues/7636#issuecomment-3913427383) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#7583](https://github.com/2i2c-org/infrastructure/issues/7583#issuecomment-3909351394) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
