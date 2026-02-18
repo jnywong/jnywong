@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/2i2c-org/roadmap/issues/5) in [2i2c-org/roadmap](https://github.com/2i2c-org/roadmap)
-2. 🗣 Commented on [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147#issuecomment-3916905844) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
-3. 🗣 Commented on [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147#issuecomment-3916902475) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
-4. 🔒 Closed issue [#7546](https://github.com/2i2c-org/infrastructure/issues/7546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#7636](https://github.com/2i2c-org/infrastructure/issues/7636#issuecomment-3913427383) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ℹ️ Assigned issue [#7548](https://github.com/2i2c-org/infrastructure/issues/7548) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#5](https://github.com/2i2c-org/roadmap/issues/5) in [2i2c-org/roadmap](https://github.com/2i2c-org/roadmap)
+3. 🗣 Commented on [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147#issuecomment-3916905844) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
+4. 🗣 Commented on [#147](https://github.com/pyOpenSci/pyos-package-template/pull/147#issuecomment-3916902475) in [pyOpenSci/pyos-package-template](https://github.com/pyOpenSci/pyos-package-template)
+5. 🔒 Closed issue [#7546](https://github.com/2i2c-org/infrastructure/issues/7546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
