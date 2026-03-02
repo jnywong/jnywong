@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/2i2c-org/jupyterhub-usage-quotas/releases/tag/v0.0.1) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-2. 🔒 Closed issue [#7543](https://github.com/2i2c-org/infrastructure/issues/7543) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#9](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/9) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-4. 💪 Opened PR [#9](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/9) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-5. 🗣 Commented on [#383](https://github.com/jupyterhub/nbgitpuller/pull/383#issuecomment-3974668895) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+1. 🔒 Closed issue [#7581](https://github.com/2i2c-org/infrastructure/issues/7581) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🚀 Published release [v0.0.1](https://github.com/2i2c-org/jupyterhub-usage-quotas/releases/tag/v0.0.1) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+3. 🔒 Closed issue [#7543](https://github.com/2i2c-org/infrastructure/issues/7543) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#9](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/9) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+5. 💪 Opened PR [#9](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/9) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
 <!--END_SECTION:activity-->
