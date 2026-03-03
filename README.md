@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/2i2c-org/initiatives/issues/3#issuecomment-3991733273) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-2. 🗣 Commented on [#182](https://github.com/jupyterhub/grafana-dashboards/pull/182#issuecomment-3991688575) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-3. 🗣 Commented on [#3](https://github.com/2i2c-org/initiatives/issues/3#issuecomment-3991675244) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-4. ℹ️ Assigned issue [#7547](https://github.com/2i2c-org/infrastructure/issues/7547) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned issue [#7819](https://github.com/2i2c-org/infrastructure/issues/7819) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#10](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/10) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+2. 🗣 Commented on [#3](https://github.com/2i2c-org/initiatives/issues/3#issuecomment-3991733273) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+3. 🗣 Commented on [#182](https://github.com/jupyterhub/grafana-dashboards/pull/182#issuecomment-3991688575) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+4. 🗣 Commented on [#3](https://github.com/2i2c-org/initiatives/issues/3#issuecomment-3991675244) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+5. ℹ️ Assigned issue [#7547](https://github.com/2i2c-org/infrastructure/issues/7547) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
