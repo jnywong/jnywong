@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/10) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-2. 💪 Opened PR [#10](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/10) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-3. 🗣 Commented on [#3](https://github.com/2i2c-org/initiatives/issues/3#issuecomment-3991733273) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-4. 🗣 Commented on [#182](https://github.com/jupyterhub/grafana-dashboards/pull/182#issuecomment-3991688575) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-5. 🗣 Commented on [#3](https://github.com/2i2c-org/initiatives/issues/3#issuecomment-3991675244) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+1. 💪 Opened PR [#11](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/11) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+2. 🎉 Merged PR [#44](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/44) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+3. 💪 Opened PR [#44](https://github.com/2i2c-org/jupyterhub-groups-exporter/pull/44) in [2i2c-org/jupyterhub-groups-exporter](https://github.com/2i2c-org/jupyterhub-groups-exporter)
+4. 🎉 Merged PR [#10](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/10) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+5. 💪 Opened PR [#10](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/10) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
 <!--END_SECTION:activity-->
