@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#591](https://github.com/2i2c-org/2i2c-org.github.io/pull/591) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-2. 🎉 Merged PR [#394](https://github.com/jupyterhub/nbgitpuller/pull/394) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-3. 💪 Opened PR [#394](https://github.com/jupyterhub/nbgitpuller/pull/394) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-4. ℹ️ Labeled PR [#391](https://github.com/jupyterhub/nbgitpuller/pull/391) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-5. ℹ️ Labeled PR [#390](https://github.com/jupyterhub/nbgitpuller/pull/390) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+1. 🎉 Merged PR [#591](https://github.com/2i2c-org/2i2c-org.github.io/pull/591) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 💪 Opened PR [#591](https://github.com/2i2c-org/2i2c-org.github.io/pull/591) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+3. 🎉 Merged PR [#394](https://github.com/jupyterhub/nbgitpuller/pull/394) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+4. 💪 Opened PR [#394](https://github.com/jupyterhub/nbgitpuller/pull/394) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+5. ℹ️ Labeled PR [#391](https://github.com/jupyterhub/nbgitpuller/pull/391) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
 <!--END_SECTION:activity-->
