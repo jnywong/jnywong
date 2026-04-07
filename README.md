@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#386](https://github.com/jupyterhub/nbgitpuller/pull/386#issuecomment-4199349336) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-2. 🗣 Commented on [#8027](https://github.com/2i2c-org/infrastructure/issues/8027#issuecomment-4199103934) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#592](https://github.com/2i2c-org/2i2c-org.github.io/issues/592) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
-4. ℹ️ Labeled issue [#395](https://github.com/jupyterhub/nbgitpuller/issues/395) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
-5. 🗣 Commented on [#1098](https://github.com/2i2c-org/team-compass/pull/1098#issuecomment-4184280863) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+1. ℹ️ Labeled issue [#5340](https://github.com/jupyterhub/jupyterhub/issues/5340) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+2. ❗ Opened issue [#5340](https://github.com/jupyterhub/jupyterhub/issues/5340) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+3. 🗣 Commented on [#386](https://github.com/jupyterhub/nbgitpuller/pull/386#issuecomment-4199349336) in [jupyterhub/nbgitpuller](https://github.com/jupyterhub/nbgitpuller)
+4. 🗣 Commented on [#8027](https://github.com/2i2c-org/infrastructure/issues/8027#issuecomment-4199103934) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#592](https://github.com/2i2c-org/2i2c-org.github.io/issues/592) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
 <!--END_SECTION:activity-->
