@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8037](https://github.com/2i2c-org/infrastructure/issues/8037#issuecomment-4258998954) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#8111](https://github.com/2i2c-org/infrastructure/issues/8111#issuecomment-4258789170) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#8070](https://github.com/2i2c-org/infrastructure/issues/8070#issuecomment-4253120972) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#8111](https://github.com/2i2c-org/infrastructure/issues/8111) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8037](https://github.com/2i2c-org/infrastructure/issues/8037#issuecomment-4259110542) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#8037](https://github.com/2i2c-org/infrastructure/issues/8037#issuecomment-4258998954) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#8111](https://github.com/2i2c-org/infrastructure/issues/8111#issuecomment-4258789170) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#8070](https://github.com/2i2c-org/infrastructure/issues/8070#issuecomment-4253120972) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 5. ℹ️ Assigned issue [#8111](https://github.com/2i2c-org/infrastructure/issues/8111) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
