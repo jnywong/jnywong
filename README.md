@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1099](https://github.com/2i2c-org/team-compass/issues/1099) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-2. ℹ️ Assigned issue [#7552](https://github.com/2i2c-org/infrastructure/issues/7552) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Assigned issue [#8189](https://github.com/2i2c-org/infrastructure/issues/8189) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#8123](https://github.com/2i2c-org/infrastructure/issues/8123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Labeled issue [#8154](https://github.com/2i2c-org/infrastructure/issues/8154) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ℹ️ Assigned issue [#8154](https://github.com/2i2c-org/infrastructure/issues/8154) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Assigned issue [#1099](https://github.com/2i2c-org/team-compass/issues/1099) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+3. ℹ️ Assigned issue [#7552](https://github.com/2i2c-org/infrastructure/issues/7552) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Assigned issue [#8189](https://github.com/2i2c-org/infrastructure/issues/8189) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned issue [#8123](https://github.com/2i2c-org/infrastructure/issues/8123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
