@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#5357](https://github.com/jupyterhub/jupyterhub/issues/5357) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-2. ❗ Opened issue [#5357](https://github.com/jupyterhub/jupyterhub/issues/5357) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-3. 🔒 Closed issue [#5340](https://github.com/jupyterhub/jupyterhub/issues/5340) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-4. ℹ️ Unlabeled issue [#8123](https://github.com/2i2c-org/infrastructure/issues/8123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8208](https://github.com/2i2c-org/infrastructure/pull/8208#issuecomment-4345333054) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8203](https://github.com/2i2c-org/infrastructure/issues/8203#issuecomment-4345968195) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Labeled issue [#5357](https://github.com/jupyterhub/jupyterhub/issues/5357) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+3. ❗ Opened issue [#5357](https://github.com/jupyterhub/jupyterhub/issues/5357) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+4. 🔒 Closed issue [#5340](https://github.com/jupyterhub/jupyterhub/issues/5340) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+5. ℹ️ Unlabeled issue [#8123](https://github.com/2i2c-org/infrastructure/issues/8123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
