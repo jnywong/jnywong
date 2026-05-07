@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8249](https://github.com/2i2c-org/infrastructure/pull/8249) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#8203](https://github.com/2i2c-org/infrastructure/issues/8203#issuecomment-4396190054) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#1107](https://github.com/2i2c-org/team-compass/pull/1107#issuecomment-4395312579) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-4. ℹ️ Labeled issue [#8240](https://github.com/2i2c-org/infrastructure/issues/8240) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#8123](https://github.com/2i2c-org/infrastructure/issues/8123) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8228](https://github.com/2i2c-org/infrastructure/issues/8228#issuecomment-4396749158) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ❗ Opened issue [#8251](https://github.com/2i2c-org/infrastructure/issues/8251) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#8249](https://github.com/2i2c-org/infrastructure/pull/8249#issuecomment-4396402846) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#8249](https://github.com/2i2c-org/infrastructure/pull/8249#issuecomment-4396373360) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#8249](https://github.com/2i2c-org/infrastructure/pull/8249) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
