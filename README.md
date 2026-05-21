@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/55) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-2. 💪 Opened PR [#55](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/55) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-3. ❌ Closed PR [#53](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/53) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-4. 🎉 Merged PR [#54](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/54) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-5. 💪 Opened PR [#54](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/54) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+1. 🎉 Merged PR [#57](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/57) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+2. 💪 Opened PR [#57](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/57) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+3. ℹ️ Labeled PR [#50](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/50) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+4. ℹ️ Labeled PR [#47](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/47) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+5. ℹ️ Labeled PR [#55](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/55) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
 <!--END_SECTION:activity-->
