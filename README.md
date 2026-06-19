@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8558](https://github.com/2i2c-org/infrastructure/pull/8558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#8128](https://github.com/2i2c-org/infrastructure/issues/8128) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#8561](https://github.com/2i2c-org/infrastructure/pull/8561) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#8558](https://github.com/2i2c-org/infrastructure/pull/8558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#8365](https://github.com/2i2c-org/infrastructure/issues/8365) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#923](https://github.com/jupyterhub/kubespawner/pull/923#issuecomment-4752803178) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+2. 🎉 Merged PR [#8558](https://github.com/2i2c-org/infrastructure/pull/8558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#8128](https://github.com/2i2c-org/infrastructure/issues/8128) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#8561](https://github.com/2i2c-org/infrastructure/pull/8561) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#8558](https://github.com/2i2c-org/infrastructure/pull/8558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
