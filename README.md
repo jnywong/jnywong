@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8365](https://github.com/2i2c-org/infrastructure/issues/8365) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#8546](https://github.com/2i2c-org/infrastructure/pull/8546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#7](https://github.com/EarthScope/GeoLab-docs/pull/7) in [EarthScope/GeoLab-docs](https://github.com/EarthScope/GeoLab-docs)
-4. 💪 Opened PR [#8546](https://github.com/2i2c-org/infrastructure/pull/8546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8416](https://github.com/2i2c-org/infrastructure/issues/8416#issuecomment-4728907379) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#8558](https://github.com/2i2c-org/infrastructure/pull/8558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#8128](https://github.com/2i2c-org/infrastructure/issues/8128) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#8561](https://github.com/2i2c-org/infrastructure/pull/8561) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#8558](https://github.com/2i2c-org/infrastructure/pull/8558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#8365](https://github.com/2i2c-org/infrastructure/issues/8365) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
