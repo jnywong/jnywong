@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8571](https://github.com/2i2c-org/infrastructure/pull/8571) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#923](https://github.com/jupyterhub/kubespawner/pull/923#issuecomment-4768322544) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-3. 🗣 Commented on [#923](https://github.com/jupyterhub/kubespawner/pull/923#issuecomment-4752803178) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-4. 🎉 Merged PR [#8558](https://github.com/2i2c-org/infrastructure/pull/8558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#8128](https://github.com/2i2c-org/infrastructure/issues/8128) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ❌ Closed PR [#7](https://github.com/EarthScope/GeoLab-docs/pull/7) in [EarthScope/GeoLab-docs](https://github.com/EarthScope/GeoLab-docs)
+2. ℹ️ Labeled issue [#8570](https://github.com/2i2c-org/infrastructure/issues/8570) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#8571](https://github.com/2i2c-org/infrastructure/pull/8571) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#923](https://github.com/jupyterhub/kubespawner/pull/923#issuecomment-4768322544) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+5. 🗣 Commented on [#923](https://github.com/jupyterhub/kubespawner/pull/923#issuecomment-4752803178) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
 <!--END_SECTION:activity-->
