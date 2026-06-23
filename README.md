@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#923](https://github.com/jupyterhub/kubespawner/pull/923#issuecomment-4768322544) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-2. 🗣 Commented on [#923](https://github.com/jupyterhub/kubespawner/pull/923#issuecomment-4752803178) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-3. 🎉 Merged PR [#8558](https://github.com/2i2c-org/infrastructure/pull/8558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#8128](https://github.com/2i2c-org/infrastructure/issues/8128) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#8561](https://github.com/2i2c-org/infrastructure/pull/8561) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#8571](https://github.com/2i2c-org/infrastructure/pull/8571) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#923](https://github.com/jupyterhub/kubespawner/pull/923#issuecomment-4768322544) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+3. 🗣 Commented on [#923](https://github.com/jupyterhub/kubespawner/pull/923#issuecomment-4752803178) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+4. 🎉 Merged PR [#8558](https://github.com/2i2c-org/infrastructure/pull/8558) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#8128](https://github.com/2i2c-org/infrastructure/issues/8128) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
