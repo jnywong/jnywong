@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7163](https://github.com/2i2c-org/infrastructure/issues/7163) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#6941](https://github.com/2i2c-org/infrastructure/issues/6941) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#122](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/122#issuecomment-4742563955) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
-4. 🎉 Merged PR [#8606](https://github.com/2i2c-org/infrastructure/pull/8606) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#8614](https://github.com/2i2c-org/infrastructure/pull/8614) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#8625](https://github.com/2i2c-org/infrastructure/pull/8625) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#8625](https://github.com/2i2c-org/infrastructure/pull/8625) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#7163](https://github.com/2i2c-org/infrastructure/issues/7163) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#6941](https://github.com/2i2c-org/infrastructure/issues/6941) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#122](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/122#issuecomment-4742563955) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
 <!--END_SECTION:activity-->
