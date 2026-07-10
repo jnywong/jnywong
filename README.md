@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/2i2c-org/data/issues/4) in [2i2c-org/data](https://github.com/2i2c-org/data)
-2. 🔒 Closed issue [#8699](https://github.com/2i2c-org/infrastructure/issues/8699) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#8699](https://github.com/2i2c-org/infrastructure/issues/8699#issuecomment-4924492472) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#8703](https://github.com/2i2c-org/infrastructure/pull/8703) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#8703](https://github.com/2i2c-org/infrastructure/pull/8703) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ℹ️ Assigned issue [#68](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/68) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+2. 🎉 Merged PR [#71](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/71) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+3. 🔒 Closed issue [#68](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/68) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+4. 💪 Opened PR [#71](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/71) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+5. 🎉 Merged PR [#8712](https://github.com/2i2c-org/infrastructure/pull/8712) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
