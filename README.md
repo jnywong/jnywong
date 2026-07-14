@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8667](https://github.com/2i2c-org/infrastructure/issues/8667#issuecomment-4968517546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#8667](https://github.com/2i2c-org/infrastructure/issues/8667) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#917](https://github.com/jupyterhub/kubespawner/issues/917) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
-4. 🗣 Commented on [#8719](https://github.com/2i2c-org/infrastructure/issues/8719#issuecomment-4960200735) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned issue [#8667](https://github.com/2i2c-org/infrastructure/issues/8667) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8737](https://github.com/2i2c-org/infrastructure/issues/8737#issuecomment-4970731646) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Labeled issue [#829](https://github.com/jupyterhub/oauthenticator/issues/829) in [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator)
+3. ❗ Opened issue [#829](https://github.com/jupyterhub/oauthenticator/issues/829) in [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator)
+4. 🗣 Commented on [#8667](https://github.com/2i2c-org/infrastructure/issues/8667#issuecomment-4968517546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#8667](https://github.com/2i2c-org/infrastructure/issues/8667) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
