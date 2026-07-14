@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8719](https://github.com/2i2c-org/infrastructure/issues/8719#issuecomment-4960200735) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Assigned issue [#8667](https://github.com/2i2c-org/infrastructure/issues/8667) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#8667](https://github.com/2i2c-org/infrastructure/issues/8667#issuecomment-4959747601) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8667](https://github.com/2i2c-org/infrastructure/issues/8667#issuecomment-4958188532) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8178](https://github.com/2i2c-org/infrastructure/issues/8178#issuecomment-4957278064) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8667](https://github.com/2i2c-org/infrastructure/issues/8667#issuecomment-4968517546) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#8667](https://github.com/2i2c-org/infrastructure/issues/8667) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#917](https://github.com/jupyterhub/kubespawner/issues/917) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+4. 🗣 Commented on [#8719](https://github.com/2i2c-org/infrastructure/issues/8719#issuecomment-4960200735) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned issue [#8667](https://github.com/2i2c-org/infrastructure/issues/8667) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
