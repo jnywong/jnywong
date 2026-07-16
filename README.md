@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/2i2c-org/initiatives/issues/3#issuecomment-4979725422) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-2. 🗣 Commented on [#8492](https://github.com/2i2c-org/infrastructure/issues/8492#issuecomment-4979552458) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#130](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/130#issuecomment-4978869682) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
-4. ℹ️ Assigned issue [#130](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/130) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
-5. ❗ Opened issue [#8745](https://github.com/2i2c-org/infrastructure/issues/8745) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ℹ️ Assigned issue [#8409](https://github.com/2i2c-org/infrastructure/issues/8409) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#3](https://github.com/2i2c-org/initiatives/issues/3#issuecomment-4979725422) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+3. 🗣 Commented on [#8492](https://github.com/2i2c-org/infrastructure/issues/8492#issuecomment-4979552458) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#130](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/130#issuecomment-4978869682) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
+5. ℹ️ Assigned issue [#130](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/130) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
 <!--END_SECTION:activity-->
