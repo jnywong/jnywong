@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/jupyterhub/action-k3s-helm/issues/135#issuecomment-5069345050) in [jupyterhub/action-k3s-helm](https://github.com/jupyterhub/action-k3s-helm)
-2. 🎉 Merged PR [#77](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/77) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-3. ℹ️ Labeled issue [#135](https://github.com/jupyterhub/action-k3s-helm/issues/135) in [jupyterhub/action-k3s-helm](https://github.com/jupyterhub/action-k3s-helm)
-4. ❗ Opened issue [#135](https://github.com/jupyterhub/action-k3s-helm/issues/135) in [jupyterhub/action-k3s-helm](https://github.com/jupyterhub/action-k3s-helm)
-5. 💪 Opened PR [#77](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/77) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+1. 🔒 Closed issue [#8697](https://github.com/2i2c-org/infrastructure/issues/8697) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#8811](https://github.com/2i2c-org/infrastructure/pull/8811) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#8811](https://github.com/2i2c-org/infrastructure/pull/8811) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🎉 Merged PR [#78](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/78) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+5. 💪 Opened PR [#78](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/78) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
 <!--END_SECTION:activity-->
