@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8778](https://github.com/2i2c-org/infrastructure/issues/8778#issuecomment-5252239425) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Unassigned issue [#8778](https://github.com/2i2c-org/infrastructure/issues/8778) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Assigned issue [#8778](https://github.com/2i2c-org/infrastructure/issues/8778) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8778](https://github.com/2i2c-org/infrastructure/issues/8778#issuecomment-5252062958) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🔒 Closed issue [#7160](https://github.com/2i2c-org/infrastructure/issues/7160) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8778](https://github.com/2i2c-org/infrastructure/issues/8778#issuecomment-5253806362) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🗣 Commented on [#8778](https://github.com/2i2c-org/infrastructure/issues/8778#issuecomment-5252239425) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ℹ️ Unassigned issue [#8778](https://github.com/2i2c-org/infrastructure/issues/8778) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Assigned issue [#8778](https://github.com/2i2c-org/infrastructure/issues/8778) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#8778](https://github.com/2i2c-org/infrastructure/issues/8778#issuecomment-5252062958) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
