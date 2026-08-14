@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#315](https://github.com/2i2c-org/docs/pull/315) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-2. 🎉 Merged PR [#8908](https://github.com/2i2c-org/infrastructure/pull/8908) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#8908](https://github.com/2i2c-org/infrastructure/pull/8908) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#8907](https://github.com/2i2c-org/infrastructure/issues/8907#issuecomment-5292337795) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8907](https://github.com/2i2c-org/infrastructure/issues/8907#issuecomment-5292244767) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#626](https://github.com/2i2c-org/2i2c-org.github.io/pull/626) in [2i2c-org/2i2c-org.github.io](https://github.com/2i2c-org/2i2c-org.github.io)
+2. 💪 Opened PR [#315](https://github.com/2i2c-org/docs/pull/315) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+3. 🎉 Merged PR [#8908](https://github.com/2i2c-org/infrastructure/pull/8908) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#8908](https://github.com/2i2c-org/infrastructure/pull/8908) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#8907](https://github.com/2i2c-org/infrastructure/issues/8907#issuecomment-5292337795) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
