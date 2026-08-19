@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#8917](https://github.com/2i2c-org/infrastructure/pull/8917) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#8917](https://github.com/2i2c-org/infrastructure/pull/8917) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Labeled issue [#8916](https://github.com/2i2c-org/infrastructure/issues/8916) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#8916](https://github.com/2i2c-org/infrastructure/issues/8916) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#936](https://github.com/jupyterhub/kubespawner/issues/936#issuecomment-5325303248) in [jupyterhub/kubespawner](https://github.com/jupyterhub/kubespawner)
+1. ❗ Opened issue [#8923](https://github.com/2i2c-org/infrastructure/issues/8923) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#8922](https://github.com/2i2c-org/infrastructure/pull/8922) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#8919](https://github.com/2i2c-org/infrastructure/issues/8919#issuecomment-5339873958) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 💪 Opened PR [#8922](https://github.com/2i2c-org/infrastructure/pull/8922) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned PR [#8917](https://github.com/2i2c-org/infrastructure/pull/8917) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
