@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/135#issuecomment-5358276960) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
-2. 🔒 Closed issue [#316](https://github.com/2i2c-org/docs/issues/316) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-3. ❗ Opened issue [#320](https://github.com/2i2c-org/docs/issues/320) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-4. 🔒 Closed issue [#8789](https://github.com/2i2c-org/infrastructure/issues/8789) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ❗ Opened issue [#90](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/90) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+1. 🗣 Commented on [#135](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/135#issuecomment-5358421242) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
+2. 🗣 Commented on [#135](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/135#issuecomment-5358276960) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
+3. 🔒 Closed issue [#316](https://github.com/2i2c-org/docs/issues/316) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+4. ❗ Opened issue [#320](https://github.com/2i2c-org/docs/issues/320) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+5. 🔒 Closed issue [#8789](https://github.com/2i2c-org/infrastructure/issues/8789) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
