@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/135#issuecomment-5372498461) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
-2. 🎉 Merged PR [#321](https://github.com/2i2c-org/docs/pull/321) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-3. 🔒 Closed issue [#320](https://github.com/2i2c-org/docs/issues/320) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-4. 💪 Opened PR [#321](https://github.com/2i2c-org/docs/pull/321) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-5. ℹ️ Labeled PR [#92](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/92) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+1. ℹ️ Reopened PR [#125](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/125) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+2. ❌ Closed PR [#125](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/125) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+3. 💪 Opened PR [#125](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/125) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
+4. 🗣 Commented on [#135](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/135#issuecomment-5372498461) in [NASA-IMPACT/veda-jupyterhub](https://github.com/NASA-IMPACT/veda-jupyterhub)
+5. 🎉 Merged PR [#321](https://github.com/2i2c-org/docs/pull/321) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
 <!--END_SECTION:activity-->
