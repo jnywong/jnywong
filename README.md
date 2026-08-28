@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8876](https://github.com/2i2c-org/infrastructure/issues/8876#issuecomment-5441740442) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🗣 Commented on [#8876](https://github.com/2i2c-org/infrastructure/issues/8876#issuecomment-5440462976) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#126](https://github.com/2i2c-org/jupyterhub-cost-monitoring/pull/126#issuecomment-5436503208) in [2i2c-org/jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring)
-4. ℹ️ Unassigned issue [#8918](https://github.com/2i2c-org/infrastructure/issues/8918) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#8918](https://github.com/2i2c-org/infrastructure/issues/8918#issuecomment-5436559670) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#4](https://github.com/2i2c-org/k8s-node-controller/pull/4) in [2i2c-org/k8s-node-controller](https://github.com/2i2c-org/k8s-node-controller)
+2. 💪 Opened PR [#4](https://github.com/2i2c-org/k8s-node-controller/pull/4) in [2i2c-org/k8s-node-controller](https://github.com/2i2c-org/k8s-node-controller)
+3. 🎉 Merged PR [#3](https://github.com/2i2c-org/k8s-node-controller/pull/3) in [2i2c-org/k8s-node-controller](https://github.com/2i2c-org/k8s-node-controller)
+4. 💪 Opened PR [#3](https://github.com/2i2c-org/k8s-node-controller/pull/3) in [2i2c-org/k8s-node-controller](https://github.com/2i2c-org/k8s-node-controller)
+5. 🎉 Merged PR [#2](https://github.com/2i2c-org/k8s-node-controller/pull/2) in [2i2c-org/k8s-node-controller](https://github.com/2i2c-org/k8s-node-controller)
 <!--END_SECTION:activity-->
