@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9026](https://github.com/2i2c-org/infrastructure/pull/9026) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#8978](https://github.com/2i2c-org/infrastructure/issues/8978) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 💪 Opened PR [#9026](https://github.com/2i2c-org/infrastructure/pull/9026) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#7](https://github.com/2i2c-org/k8s-node-controller/pull/7) in [2i2c-org/k8s-node-controller](https://github.com/2i2c-org/k8s-node-controller)
-5. 💪 Opened PR [#7](https://github.com/2i2c-org/k8s-node-controller/pull/7) in [2i2c-org/k8s-node-controller](https://github.com/2i2c-org/k8s-node-controller)
+1. 🎉 Merged PR [#9032](https://github.com/2i2c-org/infrastructure/pull/9032) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 💪 Opened PR [#9032](https://github.com/2i2c-org/infrastructure/pull/9032) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#9026](https://github.com/2i2c-org/infrastructure/pull/9026) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#8978](https://github.com/2i2c-org/infrastructure/issues/8978) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 💪 Opened PR [#9026](https://github.com/2i2c-org/infrastructure/pull/9026) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
