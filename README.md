@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8903](https://github.com/2i2c-org/infrastructure/issues/8903#issuecomment-5506867972) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#8903](https://github.com/2i2c-org/infrastructure/issues/8903) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#9031](https://github.com/2i2c-org/infrastructure/issues/9031) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🎉 Merged PR [#9032](https://github.com/2i2c-org/infrastructure/pull/9032) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#9032](https://github.com/2i2c-org/infrastructure/pull/9032) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#829](https://github.com/jupyterhub/oauthenticator/issues/829#issuecomment-5510811508) in [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator)
+2. 🗣 Commented on [#8903](https://github.com/2i2c-org/infrastructure/issues/8903#issuecomment-5506867972) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#8903](https://github.com/2i2c-org/infrastructure/issues/8903) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#9031](https://github.com/2i2c-org/infrastructure/issues/9031) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#9032](https://github.com/2i2c-org/infrastructure/pull/9032) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
