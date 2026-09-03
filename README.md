@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/2i2c-org/k8s-node-controller/pull/8) in [2i2c-org/k8s-node-controller](https://github.com/2i2c-org/k8s-node-controller)
-2. 🗣 Commented on [#7681](https://github.com/2i2c-org/infrastructure/issues/7681#issuecomment-5521479238) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#9047](https://github.com/2i2c-org/infrastructure/issues/9047) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#829](https://github.com/jupyterhub/oauthenticator/issues/829#issuecomment-5510811508) in [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator)
-5. 🗣 Commented on [#8903](https://github.com/2i2c-org/infrastructure/issues/8903#issuecomment-5506867972) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#8916](https://github.com/2i2c-org/infrastructure/issues/8916#issuecomment-5527654768) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🔒 Closed issue [#8916](https://github.com/2i2c-org/infrastructure/issues/8916) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#8927](https://github.com/2i2c-org/infrastructure/issues/8927#issuecomment-5527614111) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#8927](https://github.com/2i2c-org/infrastructure/issues/8927) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned issue [#8981](https://github.com/2i2c-org/infrastructure/issues/8981) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
