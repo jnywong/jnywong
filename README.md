@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/2i2c-org/k8s-node-operator/pull/10) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-2. 💪 Opened PR [#10](https://github.com/2i2c-org/k8s-node-operator/pull/10) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-3. 🎉 Merged PR [#9](https://github.com/2i2c-org/k8s-node-operator/pull/9) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-4. 💪 Opened PR [#9](https://github.com/2i2c-org/k8s-node-operator/pull/9) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-5. 🎉 Merged PR [#8](https://github.com/2i2c-org/k8s-node-operator/pull/8) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+1. 🎉 Merged PR [#12](https://github.com/2i2c-org/k8s-node-operator/pull/12) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+2. 💪 Opened PR [#12](https://github.com/2i2c-org/k8s-node-operator/pull/12) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+3. 🎉 Merged PR [#11](https://github.com/2i2c-org/k8s-node-operator/pull/11) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+4. 💪 Opened PR [#11](https://github.com/2i2c-org/k8s-node-operator/pull/11) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+5. 🎉 Merged PR [#10](https://github.com/2i2c-org/k8s-node-operator/pull/10) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
 <!--END_SECTION:activity-->
