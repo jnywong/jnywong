@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7681](https://github.com/2i2c-org/infrastructure/issues/7681#issuecomment-5568619921) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#12](https://github.com/2i2c-org/k8s-node-operator/pull/12) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-3. 💪 Opened PR [#12](https://github.com/2i2c-org/k8s-node-operator/pull/12) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-4. 🎉 Merged PR [#11](https://github.com/2i2c-org/k8s-node-operator/pull/11) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-5. 💪 Opened PR [#11](https://github.com/2i2c-org/k8s-node-operator/pull/11) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+1. 🔒 Closed issue [#95](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/95) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+2. 🗣 Commented on [#9042](https://github.com/2i2c-org/infrastructure/pull/9042#issuecomment-5572414764) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#8822](https://github.com/2i2c-org/infrastructure/issues/8822#issuecomment-5572392866) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Assigned issue [#95](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/95) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+5. ❗ Opened issue [#95](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/95) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
 <!--END_SECTION:activity-->
