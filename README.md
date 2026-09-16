@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/2i2c-org/initiatives/issues/2#issuecomment-5697606959) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-2. 🗣 Commented on [#47](https://github.com/2i2c-org/initiatives/issues/47#issuecomment-5697565370) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-3. 🗣 Commented on [#96](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/96#issuecomment-5694518620) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-4. ℹ️ Assigned issue [#96](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/96) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-5. 🗣 Commented on [#96](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/96#issuecomment-5683681171) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+1. 🎉 Merged PR [#16](https://github.com/2i2c-org/k8s-node-operator/pull/16) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+2. 💪 Opened PR [#16](https://github.com/2i2c-org/k8s-node-operator/pull/16) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+3. 🗣 Commented on [#2](https://github.com/2i2c-org/initiatives/issues/2#issuecomment-5697606959) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+4. 🗣 Commented on [#47](https://github.com/2i2c-org/initiatives/issues/47#issuecomment-5697565370) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+5. 🗣 Commented on [#96](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/96#issuecomment-5694518620) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
 <!--END_SECTION:activity-->
