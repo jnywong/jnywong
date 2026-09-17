@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/2i2c-org/k8s-node-operator/pull/16) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-2. 💪 Opened PR [#16](https://github.com/2i2c-org/k8s-node-operator/pull/16) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-3. 🗣 Commented on [#2](https://github.com/2i2c-org/initiatives/issues/2#issuecomment-5697606959) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-4. 🗣 Commented on [#47](https://github.com/2i2c-org/initiatives/issues/47#issuecomment-5697565370) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
-5. 🗣 Commented on [#96](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/96#issuecomment-5694518620) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+1. 💪 Opened PR [#17](https://github.com/2i2c-org/k8s-node-operator/pull/17) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+2. 🗣 Commented on [#8981](https://github.com/2i2c-org/infrastructure/issues/8981#issuecomment-5715353578) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#8981](https://github.com/2i2c-org/infrastructure/issues/8981) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ❗ Opened issue [#9100](https://github.com/2i2c-org/infrastructure/issues/9100) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🎉 Merged PR [#16](https://github.com/2i2c-org/k8s-node-operator/pull/16) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
 <!--END_SECTION:activity-->
