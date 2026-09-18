@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/99#issuecomment-5727953840) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-2. 🗣 Commented on [#96](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/96#issuecomment-5727856861) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-3. ❗ Opened issue [#99](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/99) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-4. 🗣 Commented on [#1129](https://github.com/cal-icor/cal-icor-hubs/pull/1129#issuecomment-5727811543) in [cal-icor/cal-icor-hubs](https://github.com/cal-icor/cal-icor-hubs)
-5. ℹ️ Assigned issue [#9100](https://github.com/2i2c-org/infrastructure/issues/9100) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#1129](https://github.com/cal-icor/cal-icor-hubs/pull/1129#issuecomment-5733122880) in [cal-icor/cal-icor-hubs](https://github.com/cal-icor/cal-icor-hubs)
+2. 🗣 Commented on [#99](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/99#issuecomment-5727953840) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+3. 🗣 Commented on [#96](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/96#issuecomment-5727856861) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+4. ❗ Opened issue [#99](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/99) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+5. 🗣 Commented on [#1129](https://github.com/cal-icor/cal-icor-hubs/pull/1129#issuecomment-5727811543) in [cal-icor/cal-icor-hubs](https://github.com/cal-icor/cal-icor-hubs)
 <!--END_SECTION:activity-->
