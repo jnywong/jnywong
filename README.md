@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ianthomas23/hybrid-kernels-client/pull/1) in [ianthomas23/hybrid-kernels-client](https://github.com/ianthomas23/hybrid-kernels-client)
-2. 🔒 Closed issue [#9036](https://github.com/2i2c-org/infrastructure/issues/9036) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🔒 Closed issue [#9100](https://github.com/2i2c-org/infrastructure/issues/9100) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#9191](https://github.com/2i2c-org/infrastructure/issues/9191) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned issue [#8980](https://github.com/2i2c-org/infrastructure/issues/8980) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#74](https://github.com/Openscapes/openscapes.cloud/issues/74#issuecomment-5992424254) in [Openscapes/openscapes.cloud](https://github.com/Openscapes/openscapes.cloud)
+2. 💪 Opened PR [#1](https://github.com/ianthomas23/hybrid-kernels-client/pull/1) in [ianthomas23/hybrid-kernels-client](https://github.com/ianthomas23/hybrid-kernels-client)
+3. 🔒 Closed issue [#9036](https://github.com/2i2c-org/infrastructure/issues/9036) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#9100](https://github.com/2i2c-org/infrastructure/issues/9100) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned issue [#9191](https://github.com/2i2c-org/infrastructure/issues/9191) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
