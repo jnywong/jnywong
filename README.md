@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/2i2c-org/default-hub-homepage/pull/56#issuecomment-6014962424) in [2i2c-org/default-hub-homepage](https://github.com/2i2c-org/default-hub-homepage)
-2. 🗣 Commented on [#56](https://github.com/2i2c-org/default-hub-homepage/pull/56#issuecomment-6013935940) in [2i2c-org/default-hub-homepage](https://github.com/2i2c-org/default-hub-homepage)
-3. ℹ️ Labeled PR [#101](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/101) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
-4. 🎉 Merged PR [#9175](https://github.com/2i2c-org/infrastructure/pull/9175) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#101](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/101) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+1. 🗣 Commented on [#74](https://github.com/Openscapes/openscapes.cloud/issues/74#issuecomment-6023215172) in [Openscapes/openscapes.cloud](https://github.com/Openscapes/openscapes.cloud)
+2. 🗣 Commented on [#6691](https://github.com/2i2c-org/infrastructure/issues/6691#issuecomment-6018859675) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#9219](https://github.com/2i2c-org/infrastructure/issues/9219) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#74](https://github.com/Openscapes/openscapes.cloud/issues/74#issuecomment-6013729353) in [Openscapes/openscapes.cloud](https://github.com/Openscapes/openscapes.cloud)
+5. 🔒 Closed issue [#6691](https://github.com/2i2c-org/infrastructure/issues/6691) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
