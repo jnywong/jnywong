@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/Openscapes/openscapes.cloud/issues/74#issuecomment-6023215172) in [Openscapes/openscapes.cloud](https://github.com/Openscapes/openscapes.cloud)
-2. 🗣 Commented on [#6691](https://github.com/2i2c-org/infrastructure/issues/6691#issuecomment-6018859675) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#9219](https://github.com/2i2c-org/infrastructure/issues/9219) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#74](https://github.com/Openscapes/openscapes.cloud/issues/74#issuecomment-6013729353) in [Openscapes/openscapes.cloud](https://github.com/Openscapes/openscapes.cloud)
-5. 🔒 Closed issue [#6691](https://github.com/2i2c-org/infrastructure/issues/6691) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 💪 Opened PR [#18](https://github.com/2i2c-org/k8s-node-operator/pull/18) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+2. ℹ️ Assigned issue [#9172](https://github.com/2i2c-org/infrastructure/issues/9172) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🗣 Commented on [#9172](https://github.com/2i2c-org/infrastructure/issues/9172#issuecomment-6038296053) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🗣 Commented on [#187](https://github.com/jupyterhub/grafana-dashboards/pull/187#issuecomment-6038282796) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+5. 💪 Opened PR [#1](https://github.com/jnywong/k8s-node-operator/pull/1) in [jnywong/k8s-node-operator](https://github.com/jnywong/k8s-node-operator)
 <!--END_SECTION:activity-->
