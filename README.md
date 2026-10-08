@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/2i2c-org/k8s-node-operator/pull/18) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-2. ℹ️ Assigned issue [#9172](https://github.com/2i2c-org/infrastructure/issues/9172) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#9172](https://github.com/2i2c-org/infrastructure/issues/9172#issuecomment-6038296053) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#187](https://github.com/jupyterhub/grafana-dashboards/pull/187#issuecomment-6038282796) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-5. 💪 Opened PR [#1](https://github.com/jnywong/k8s-node-operator/pull/1) in [jnywong/k8s-node-operator](https://github.com/jnywong/k8s-node-operator)
+1. 🗣 Commented on [#73](https://github.com/jupyter/security/issues/73#issuecomment-6057087935) in [jupyter/security](https://github.com/jupyter/security)
+2. ℹ️ Assigned issue [#9231](https://github.com/2i2c-org/infrastructure/issues/9231) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ❗ Opened issue [#9231](https://github.com/2i2c-org/infrastructure/issues/9231) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. 🔒 Closed issue [#2265](https://github.com/2i2c-org/infrastructure/issues/2265) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#9191](https://github.com/2i2c-org/infrastructure/issues/9191#issuecomment-6056724358) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
