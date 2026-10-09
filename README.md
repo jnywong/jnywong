@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/jupyter/security/issues/73#issuecomment-6057087935) in [jupyter/security](https://github.com/jupyter/security)
-2. ℹ️ Assigned issue [#9231](https://github.com/2i2c-org/infrastructure/issues/9231) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ❗ Opened issue [#9231](https://github.com/2i2c-org/infrastructure/issues/9231) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#2265](https://github.com/2i2c-org/infrastructure/issues/2265) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#9191](https://github.com/2i2c-org/infrastructure/issues/9191#issuecomment-6056724358) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#9172](https://github.com/2i2c-org/infrastructure/issues/9172#issuecomment-6083159323) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Labeled issue [#9172](https://github.com/2i2c-org/infrastructure/issues/9172) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 💪 Opened PR [#188](https://github.com/jupyterhub/grafana-dashboards/pull/188) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
+4. 🗣 Commented on [#8980](https://github.com/2i2c-org/infrastructure/issues/8980#issuecomment-6077703980) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#73](https://github.com/jupyter/security/issues/73#issuecomment-6057087935) in [jupyter/security](https://github.com/jupyter/security)
 <!--END_SECTION:activity-->
