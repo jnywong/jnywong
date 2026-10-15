@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8925](https://github.com/2i2c-org/infrastructure/issues/8925#issuecomment-6168970557) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🔒 Closed issue [#8925](https://github.com/2i2c-org/infrastructure/issues/8925) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#9256](https://github.com/2i2c-org/infrastructure/pull/9256) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ❗ Opened issue [#9263](https://github.com/2i2c-org/infrastructure/issues/9263) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#9047](https://github.com/2i2c-org/infrastructure/issues/9047#issuecomment-6142979303) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#35](https://github.com/2i2c-org/initiatives/issues/35) in [2i2c-org/initiatives](https://github.com/2i2c-org/initiatives)
+2. 🔒 Closed issue [#9278](https://github.com/2i2c-org/infrastructure/issues/9278) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🔒 Closed issue [#9089](https://github.com/2i2c-org/infrastructure/issues/9089) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Labeled issue [#9278](https://github.com/2i2c-org/infrastructure/issues/9278) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#8925](https://github.com/2i2c-org/infrastructure/issues/8925#issuecomment-6168970557) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
