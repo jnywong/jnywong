@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/jupyter/security/issues/73#issuecomment-6420847183) in [jupyter/security](https://github.com/jupyter/security)
-2. ❌ Closed PR [#18](https://github.com/2i2c-org/k8s-node-operator/pull/18) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
-3. 🗣 Commented on [#9231](https://github.com/2i2c-org/infrastructure/issues/9231#issuecomment-6415739271) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🔒 Closed issue [#9231](https://github.com/2i2c-org/infrastructure/issues/9231) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🎉 Merged PR [#1](https://github.com/jnywong/k8s-node-operator/pull/1) in [jnywong/k8s-node-operator](https://github.com/jnywong/k8s-node-operator)
+1. 💪 Opened PR [#77](https://github.com/Openscapes/openscapes.cloud/pull/77) in [Openscapes/openscapes.cloud](https://github.com/Openscapes/openscapes.cloud)
+2. 🗣 Commented on [#73](https://github.com/jupyter/security/issues/73#issuecomment-6420847183) in [jupyter/security](https://github.com/jupyter/security)
+3. ❌ Closed PR [#18](https://github.com/2i2c-org/k8s-node-operator/pull/18) in [2i2c-org/k8s-node-operator](https://github.com/2i2c-org/k8s-node-operator)
+4. 🗣 Commented on [#9231](https://github.com/2i2c-org/infrastructure/issues/9231#issuecomment-6415739271) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🔒 Closed issue [#9231](https://github.com/2i2c-org/infrastructure/issues/9231) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
