@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9413](https://github.com/2i2c-org/infrastructure/pull/9413) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 💪 Opened PR [#9413](https://github.com/2i2c-org/infrastructure/pull/9413) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🎉 Merged PR [#9404](https://github.com/2i2c-org/infrastructure/pull/9404) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 🗣 Commented on [#9402](https://github.com/2i2c-org/infrastructure/issues/9402#issuecomment-6610063758) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 💪 Opened PR [#9404](https://github.com/2i2c-org/infrastructure/pull/9404) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🔒 Closed issue [#9362](https://github.com/2i2c-org/infrastructure/issues/9362) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. 🎉 Merged PR [#1149](https://github.com/2i2c-org/team-compass/pull/1149) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+3. 🎉 Merged PR [#328](https://github.com/2i2c-org/docs/pull/328) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+4. 💪 Opened PR [#1149](https://github.com/2i2c-org/team-compass/pull/1149) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+5. 💪 Opened PR [#328](https://github.com/2i2c-org/docs/pull/328) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
 <!--END_SECTION:activity-->
