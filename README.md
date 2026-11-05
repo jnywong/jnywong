@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9362](https://github.com/2i2c-org/infrastructure/issues/9362) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#1149](https://github.com/2i2c-org/team-compass/pull/1149) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-3. 🎉 Merged PR [#328](https://github.com/2i2c-org/docs/pull/328) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
-4. 💪 Opened PR [#1149](https://github.com/2i2c-org/team-compass/pull/1149) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
-5. 💪 Opened PR [#328](https://github.com/2i2c-org/docs/pull/328) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+1. ℹ️ Assigned issue [#90](https://github.com/2i2c-org/jupyterhub-usage-quotas/issues/90) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+2. 🔒 Closed issue [#9362](https://github.com/2i2c-org/infrastructure/issues/9362) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. 🎉 Merged PR [#1149](https://github.com/2i2c-org/team-compass/pull/1149) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
+4. 🎉 Merged PR [#328](https://github.com/2i2c-org/docs/pull/328) in [2i2c-org/docs](https://github.com/2i2c-org/docs)
+5. 💪 Opened PR [#1149](https://github.com/2i2c-org/team-compass/pull/1149) in [2i2c-org/team-compass](https://github.com/2i2c-org/team-compass)
 <!--END_SECTION:activity-->
