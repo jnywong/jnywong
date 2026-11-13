@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9468](https://github.com/2i2c-org/infrastructure/issues/9468) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. ℹ️ Labeled issue [#9468](https://github.com/2i2c-org/infrastructure/issues/9468) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#9452](https://github.com/2i2c-org/infrastructure/issues/9452#issuecomment-6822776165) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#9442](https://github.com/2i2c-org/infrastructure/issues/9442) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#9452](https://github.com/2i2c-org/infrastructure/issues/9452#issuecomment-6822567533) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🗣 Commented on [#9269](https://github.com/2i2c-org/infrastructure/issues/9269#issuecomment-6858081262) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+2. ℹ️ Labeled issue [#9478](https://github.com/2i2c-org/infrastructure/issues/9478) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+3. ℹ️ Assigned issue [#9478](https://github.com/2i2c-org/infrastructure/issues/9478) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Assigned issue [#9478](https://github.com/2i2c-org/infrastructure/issues/9478) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. ℹ️ Assigned issue [#9478](https://github.com/2i2c-org/infrastructure/issues/9478) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
