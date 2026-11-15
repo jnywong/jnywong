@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/jupyterhub/grafana-dashboards/pull/189#issuecomment-6876275509) in [jupyterhub/grafana-dashboards](https://github.com/jupyterhub/grafana-dashboards)
-2. 🗣 Commented on [#9269](https://github.com/2i2c-org/infrastructure/issues/9269#issuecomment-6858081262) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. ℹ️ Labeled issue [#9478](https://github.com/2i2c-org/infrastructure/issues/9478) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. ℹ️ Assigned issue [#9478](https://github.com/2i2c-org/infrastructure/issues/9478) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. ℹ️ Assigned issue [#9478](https://github.com/2i2c-org/infrastructure/issues/9478) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. ℹ️ Labeled PR [#103](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/103) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+2. 💪 Opened PR [#103](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/103) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+3. ℹ️ Labeled PR [#102](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/102) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+4. ℹ️ Labeled PR [#100](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/100) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
+5. ℹ️ Labeled PR [#102](https://github.com/2i2c-org/jupyterhub-usage-quotas/pull/102) in [2i2c-org/jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas)
 <!--END_SECTION:activity-->
