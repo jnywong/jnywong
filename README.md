@@ -15,9 +15,9 @@
 ## Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9452](https://github.com/2i2c-org/infrastructure/issues/9452) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-2. 🎉 Merged PR [#9561](https://github.com/2i2c-org/infrastructure/pull/9561) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-3. 🗣 Commented on [#9452](https://github.com/2i2c-org/infrastructure/issues/9452#issuecomment-7167783108) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-4. 💪 Opened PR [#9561](https://github.com/2i2c-org/infrastructure/pull/9561) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
-5. 🗣 Commented on [#9452](https://github.com/2i2c-org/infrastructure/issues/9452#issuecomment-7164272498) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+1. 🎉 Merged PR [#20](https://github.com/2i2c-org/k8s-autoscaler-plugins/pull/20) in [2i2c-org/k8s-autoscaler-plugins](https://github.com/2i2c-org/k8s-autoscaler-plugins)
+2. 💪 Opened PR [#20](https://github.com/2i2c-org/k8s-autoscaler-plugins/pull/20) in [2i2c-org/k8s-autoscaler-plugins](https://github.com/2i2c-org/k8s-autoscaler-plugins)
+3. ℹ️ Assigned issue [#9446](https://github.com/2i2c-org/infrastructure/issues/9446) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+4. ℹ️ Assigned issue [#9446](https://github.com/2i2c-org/infrastructure/issues/9446) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
+5. 🗣 Commented on [#9555](https://github.com/2i2c-org/infrastructure/issues/9555#issuecomment-7197500890) in [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure)
 <!--END_SECTION:activity-->
